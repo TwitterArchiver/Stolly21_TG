@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2073735513983611355",
+    "created_at": "2026-07-15T19:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T20:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077475300594925735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1646454241324830720",
+          "start": 0,
+          "username": "tube1925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077475300594925735",
+    "in_reply_to_user_id": "1646454241324830720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074357323662004236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tube1925 不然每天好无聊哦哦哦哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2073735513983611355",
+        "created_at": "2026-07-15T19:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T20:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077475300594925735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646454241324830720",
+              "start": 0,
+              "username": "tube1925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077475300594925735",
+        "in_reply_to_user_id": "1646454241324830720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074357323662004236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tube1925 不然每天好无聊哦哦哦哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646454241324830720",
+        "conversation_id": "2073735513983611355",
+        "created_at": "2026-07-07T04:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074357323662004236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074357323662004236",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073735513983611355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG ？为什么要羡慕这个？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 238,
+          "like_count": 1453,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 630
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T10:04:33.000Z",
+        "description": "Hola!你好,我是一只也可以叫我will/男性/高中生(休学)/NEET/友跨🏳️‍⚧️/酒精依赖🥃/基督徒✝️/爱好:撸猫🐱/摄影📷/文学📖使用的语言:中文🇨🇳英语🇺🇸西语🇲🇽/适度涉政/主要发点碎碎念和日常/一个在人间凑数的废柴\n除常互动的推友以外不会主动回fo，回fo请私信🥺",
+        "id": "1646454241324830720",
+        "location": "小马利亚,坎特洛特城",
+        "name": "一只",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015852408648458240/Ho5VfcNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 127,
+          "like_count": 32973,
+          "listed_count": 3,
+          "media_count": 400,
+          "tweet_count": 16257
+        },
+        "url": "",
+        "username": "tube1925",
+        "verified": false
+      }
+    ]
+  }
+}

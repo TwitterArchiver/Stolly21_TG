@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061315824573698048",
+        "3_2061315825005670400",
+        "3_2061315823927713792"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2061315828637958588",
+    "created_at": "2026-06-01T05:16:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061315828637958588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JIFd8W9Hsi",
+          "end": 35,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2061315828637958588/photo/1",
+          "media_key": "3_2061315824573698048",
+          "start": 12,
+          "url": "https://t.co/JIFd8W9Hsi"
+        },
+        {
+          "display_url": "pic.x.com/JIFd8W9Hsi",
+          "end": 35,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2061315828637958588/photo/1",
+          "media_key": "3_2061315825005670400",
+          "start": 12,
+          "url": "https://t.co/JIFd8W9Hsi"
+        },
+        {
+          "display_url": "pic.x.com/JIFd8W9Hsi",
+          "end": 35,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2061315828637958588/photo/1",
+          "media_key": "3_2061315823927713792",
+          "start": 12,
+          "url": "https://t.co/JIFd8W9Hsi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061315828637958588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "msk你怎么这样子呀！ https://t.co/JIFd8W9Hsi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061315824573698048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtD0jWbUAASJpc.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061315825005670400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtD0k9asAA23Kf.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061315823927713792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtD0g8aYAAhHh8.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061315824573698048",
+            "3_2061315825005670400",
+            "3_2061315823927713792"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2061315828637958588",
+        "created_at": "2026-06-01T05:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061315828637958588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JIFd8W9Hsi",
+              "end": 35,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2061315828637958588/photo/1",
+              "media_key": "3_2061315824573698048",
+              "start": 12,
+              "url": "https://t.co/JIFd8W9Hsi"
+            },
+            {
+              "display_url": "pic.x.com/JIFd8W9Hsi",
+              "end": 35,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2061315828637958588/photo/1",
+              "media_key": "3_2061315825005670400",
+              "start": 12,
+              "url": "https://t.co/JIFd8W9Hsi"
+            },
+            {
+              "display_url": "pic.x.com/JIFd8W9Hsi",
+              "end": 35,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2061315828637958588/photo/1",
+              "media_key": "3_2061315823927713792",
+              "start": 12,
+              "url": "https://t.co/JIFd8W9Hsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061315828637958588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "msk你怎么这样子呀！ https://t.co/JIFd8W9Hsi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2060183749997015115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 29,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 60
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

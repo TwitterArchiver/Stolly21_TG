@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062060135380574208"
+      ],
+      "media_source_tweet_id": [
+        "2062060143488196673"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2062127543277560134",
+    "created_at": "2026-06-03T11:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062127543277560134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780570823063171072",
+          "start": 3,
+          "username": "pulinnaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zhoyCUHT1X",
+          "end": 56,
+          "expanded_url": "https://x.com/pulinnaa/status/2062060143488196673/photo/1",
+          "media_key": "3_2062060135380574208",
+          "start": 33,
+          "url": "https://t.co/zhoyCUHT1X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062127543277560134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062060143488196673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pulinnaa: 真的假的我怎么没遇到给我送lsd的人 https://t.co/zhoyCUHT1X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 335,
+        "media_key": "3_2062060135380574208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3oxJLaYAAsyLE.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062060135380574208"
+          ],
+          "media_source_tweet_id": [
+            "2062060143488196673"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2062127543277560134",
+        "created_at": "2026-06-03T11:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062127543277560134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780570823063171072",
+              "start": 3,
+              "username": "pulinnaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhoyCUHT1X",
+              "end": 56,
+              "expanded_url": "https://x.com/pulinnaa/status/2062060143488196673/photo/1",
+              "media_key": "3_2062060135380574208",
+              "start": 33,
+              "url": "https://t.co/zhoyCUHT1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062127543277560134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062060143488196673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pulinnaa: 真的假的我怎么没遇到给我送lsd的人 https://t.co/zhoyCUHT1X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062060135380574208"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2062060143488196673",
+        "created_at": "2026-06-03T06:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062060143488196673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhoyCUHT1X",
+              "end": 42,
+              "expanded_url": "https://x.com/pulinnaa/status/2062060143488196673/photo/1",
+              "media_key": "3_2062060135380574208",
+              "start": 19,
+              "url": "https://t.co/zhoyCUHT1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062060143488196673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1714,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "真的假的我怎么没遇到给我送lsd的人 https://t.co/zhoyCUHT1X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 39,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 87
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 188,
+          "like_count": 4037,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 2546
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

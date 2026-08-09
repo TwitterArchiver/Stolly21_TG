@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2058132714143047887",
+    "created_at": "2026-05-27T09:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059573610747232712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1503975731801427969",
+          "start": 0,
+          "username": "DavyWett"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059573610747232712",
+    "in_reply_to_user_id": "1503975731801427969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059572655486042191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DavyWett 他们每隔一段时间就会上架 不可能那么快收到货 还要过关来的:D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2058132714143047887",
+        "created_at": "2026-05-27T09:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059573610747232712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1503975731801427969",
+              "start": 0,
+              "username": "DavyWett"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059573610747232712",
+        "in_reply_to_user_id": "1503975731801427969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059572655486042191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DavyWett 他们每隔一段时间就会上架 不可能那么快收到货 还要过关来的:D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503975731801427969",
+        "conversation_id": "2058132714143047887",
+        "created_at": "2026-05-27T09:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059572655486042191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059572655486042191",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058132714143047887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 你收到货了吗？我刚看他们家全部商品下架了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2059558030577217971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048920886267535360/FoCCE5XG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 20,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 48
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-16T06:06:04.000Z",
+        "description": "",
+        "id": "1503975731801427969",
+        "location": "离岛",
+        "name": "Davy Wett",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990460448752492544/02zsqEoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "DavyWett",
+        "verified": false
+      }
+    ]
+  }
+}

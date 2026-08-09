@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2048882680184398252",
+    "created_at": "2026-04-27T21:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T22:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048882680184398252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597468568290873344",
+          "start": 3,
+          "username": "jingzhny11"
+        },
+        {
+          "end": 31,
+          "id": "1611002653307277313",
+          "start": 16,
+          "username": "ydoshnshxing15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048882680184398252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048543367945154857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingzhny11: @ydoshnshxing15 问题是很多CN人真的支持死刑所有广义上的吸毒者（因为长期的妖魔化宣传导致他们认为任何人使用过哪怕一次广义上的“毒品”就会变成不可交流不可产生社会关系的非人类）\n但这样是解决不了任何问题的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2048882680184398252",
+        "created_at": "2026-04-27T21:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T22:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048882680184398252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597468568290873344",
+              "start": 3,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 31,
+              "id": "1611002653307277313",
+              "start": 16,
+              "username": "ydoshnshxing15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048882680184398252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048543367945154857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingzhny11: @ydoshnshxing15 问题是很多CN人真的支持死刑所有广义上的吸毒者（因为长期的妖魔化宣传导致他们认为任何人使用过哪怕一次广义上的“毒品”就会变成不可交流不可产生社会关系的非人类）\n但这样是解决不了任何问题的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597468568290873344",
+        "conversation_id": "2048520112186003548",
+        "created_at": "2026-04-26T23:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T00:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048543367945154857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1611002653307277313",
+              "start": 0,
+              "username": "ydoshnshxing15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048543367945154857",
+        "in_reply_to_user_id": "1611002653307277313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1582,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048520112186003548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ydoshnshxing15 问题是很多CN人真的支持死刑所有广义上的吸毒者（因为长期的妖魔化宣传导致他们认为任何人使用过哪怕一次广义上的“毒品”就会变成不可交流不可产生社会关系的非人类）\n但这样是解决不了任何问题的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "或许这就是命吧。。",
+        "id": "1781745564738281472",
+        "name": "Stolly21_TG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781745841935712256/cJ7woqLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 8,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 30
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5147,
+          "following_count": 2016,
+          "like_count": 122810,
+          "listed_count": 22,
+          "media_count": 251,
+          "tweet_count": 17883
+        },
+        "username": "jingzhny11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T14:15:43.000Z",
+        "description": "中文/Eng\n不是很喜欢给自己划成分，就这样吧",
+        "id": "1611002653307277313",
+        "name": "川和工团瑞穗🚩🏳️‍⚧️🔥",
+        "pinned_tweet_id": "2043194927702474791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992581879564808192/RlGPxHF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 138,
+          "like_count": 965,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1403
+        },
+        "username": "ydoshnshxing15",
+        "verified": false
+      }
+    ]
+  }
+}

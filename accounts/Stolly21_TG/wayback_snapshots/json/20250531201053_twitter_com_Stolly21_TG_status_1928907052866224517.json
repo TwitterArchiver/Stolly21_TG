@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "1928907052866224517",
+    "created_at": "2025-05-31T20:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T21:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928907052866224517"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1928907052866224517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉我还是太惨了。我怎么这么穷？？！想吸℃没钱 想pg也不会玩。。。刚刚还被骗2k。。不要这样对我好吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "1928907052866224517",
+        "created_at": "2025-05-31T20:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T21:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928907052866224517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928907052866224517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我还是太惨了。我怎么这么穷？？！想吸℃没钱 想pg也不会玩。。。刚刚还被骗2k。。不要这样对我好吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "或许这就是命吧。。",
+        "id": "1781745564738281472",
+        "name": "Stolly21_TG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781745841935712256/cJ7woqLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

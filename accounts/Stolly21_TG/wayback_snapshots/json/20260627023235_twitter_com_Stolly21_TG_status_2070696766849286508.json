@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2070613106707874076",
+    "created_at": "2026-06-27T02:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070696766849286508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1248262946175606785",
+          "start": 0,
+          "username": "_gummy_bear___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070696766849286508",
+    "in_reply_to_user_id": "1248262946175606785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070613106707874076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_gummy_bear___ 在一开始的时候吃1t300毫克的加巴和900的普瑞吧 到后面每45分钟加1t加巴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2070613106707874076",
+        "created_at": "2026-06-27T02:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070696766849286508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1248262946175606785",
+              "start": 0,
+              "username": "_gummy_bear___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070696766849286508",
+        "in_reply_to_user_id": "1248262946175606785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070613106707874076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_gummy_bear___ 在一开始的时候吃1t300毫克的加巴和900的普瑞吧 到后面每45分钟加1t加巴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248262946175606785",
+        "conversation_id": "2070613106707874076",
+        "created_at": "2026-06-26T21:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T22:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070613106707874076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070613106707874076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加巴喷丁和pr怎么联用，求教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 没回可以私我！然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 120,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 382
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-09T14:54:22.000Z",
+        "description": "in school//drawing//AI🚫//poor english//commission close//od//gore❗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/ricecandy000",
+                "end": 23,
+                "expanded_url": "https://vgen.co/ricecandy000",
+                "start": 0,
+                "url": "https://t.co/IAZCto6qvm"
+              }
+            ]
+          }
+        },
+        "id": "1248262946175606785",
+        "location": "in terraria",
+        "name": "ricecandy|･з･)｡",
+        "pinned_tweet_id": "1953015869518258493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055565511144960000/PJ7vv65__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 1191,
+          "like_count": 2233,
+          "listed_count": 3,
+          "media_count": 17,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/IAZCto6qvm",
+        "username": "_gummy_bear___",
+        "verified": false
+      }
+    ]
+  }
+}

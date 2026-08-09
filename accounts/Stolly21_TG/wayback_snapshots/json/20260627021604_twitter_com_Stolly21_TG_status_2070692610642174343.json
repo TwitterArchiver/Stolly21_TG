@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2070690891451531643",
+    "created_at": "2026-06-27T02:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070692610642174343"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070692610642174343",
+    "in_reply_to_user_id": "1781745564738281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070690891451531643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "挺好的 过一段时间盐野义到了 我身边刚好有苯海拉明和舍曲林。我在想要不要备安非他酮呢 因为我有烟瘾 喜欢在药效的时候抽烟来的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2070690891451531643",
+        "created_at": "2026-06-27T02:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070692610642174343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070692610642174343",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070690891451531643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "挺好的 过一段时间盐野义到了 我身边刚好有苯海拉明和舍曲林。我在想要不要备安非他酮呢 因为我有烟瘾 喜欢在药效的时候抽烟来的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2070690891451531643",
+        "created_at": "2026-06-27T02:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070690891451531643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070690891451531643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚了解到dxm需要抑制酶活性让它不被过快代谢能达到更好的效果 所以吃右美也许可以搭配安非他酮、苯海拉明、舍曲林吗？！相反 白兔主要的药效二氢可待因需要酶活性越高才能转化率越高。。有没有什么方法可以。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 没回可以私我！然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 120,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

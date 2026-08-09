@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2070842771184009569",
+    "created_at": "2026-06-27T16:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070912713019257217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        },
+        {
+          "end": 19,
+          "id": "1908957018469085184",
+          "start": 10,
+          "username": "ml921127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070912713019257217",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070910874303520871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 @ml921127 淘宝客服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2070842771184009569",
+        "created_at": "2026-06-27T16:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070912713019257217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            },
+            {
+              "end": 19,
+              "id": "1908957018469085184",
+              "start": 10,
+              "username": "ml921127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070912713019257217",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070910874303520871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 @ml921127 淘宝客服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809233055196073984",
+        "conversation_id": "2070842771184009569",
+        "created_at": "2026-06-27T16:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070910874303520871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1908957018469085184",
+              "start": 0,
+              "username": "ml921127"
+            },
+            {
+              "end": 22,
+              "id": "1781745564738281472",
+              "start": 10,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070910874303520871",
+        "in_reply_to_user_id": "1908957018469085184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070845360814072053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ml921127 @Stolly21_TG 操他妈笑死我了看看私信亲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 128,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 412
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2069854465931497694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 240,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 621
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T18:56:49.000Z",
+        "description": "药物会带我们逃离这个世界，要和Archer一起吗这里很安全^^\n非同圈私信闲聊请口令188😂关注我的我会查成分。你在看我的同时我也在看你。提问箱https://t.co/BguYWWr14J",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ar96376",
+                "end": 95,
+                "expanded_url": "https://ngl.link/ar96376",
+                "start": 72,
+                "url": "https://t.co/BguYWWr14J"
+              }
+            ]
+          }
+        },
+        "id": "1908957018469085184",
+        "name": "Archer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070820490600407040/KnVuGfp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 39,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "ml921127",
+        "verified": false
+      }
+    ]
+  }
+}

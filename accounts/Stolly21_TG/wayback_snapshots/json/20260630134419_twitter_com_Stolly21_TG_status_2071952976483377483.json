@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2071818409491522022",
+    "created_at": "2026-06-30T13:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071952976483377483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066080690438123520",
+          "start": 0,
+          "username": "Seviraine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071952976483377483",
+    "in_reply_to_user_id": "2066080690438123520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071925579675279673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seviraine awwww谢谢你呀你真好呀🥺🥺❤️❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2071818409491522022",
+        "created_at": "2026-06-30T13:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071952976483377483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066080690438123520",
+              "start": 0,
+              "username": "Seviraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071952976483377483",
+        "in_reply_to_user_id": "2066080690438123520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071925579675279673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seviraine awwww谢谢你呀你真好呀🥺🥺❤️❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2071818409491522022",
+        "created_at": "2026-06-30T11:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071925579675279673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071925579675279673",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071818409491522022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 你好可爱真发也好好看🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 160,
+          "like_count": 885,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 505
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨爱发碎碎念 我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071923670214176768/0g3cdovX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 242,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      }
+    ]
+  }
+}

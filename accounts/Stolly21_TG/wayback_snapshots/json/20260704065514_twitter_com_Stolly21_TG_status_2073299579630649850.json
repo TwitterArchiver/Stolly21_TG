@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2073075278382047671",
+    "created_at": "2026-07-04T06:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T07:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073299579630649850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "622036546",
+          "start": 0,
+          "username": "Overdose_Rx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073299579630649850",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073278682966499458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_Rx 欸。。欸？！？！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2073075278382047671",
+        "created_at": "2026-07-04T06:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073299579630649850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "622036546",
+              "start": 0,
+              "username": "Overdose_Rx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073299579630649850",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073278682966499458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_Rx 欸。。欸？！？！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "2073075278382047671",
+        "created_at": "2026-07-04T05:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073278682966499458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073278682966499458",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073075278382047671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 白兔我觉得挺好吞的 熟练了能一次吞10t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 194,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 594
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 · 减害信息 | 世另我 @sacred1124 | 提问账号 @Overdose_Rc | 官号 @Psycho_Wiki | 社群：https://t.co/uRB7PdGquY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "sacred1124"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "Overdose_Rc"
+              },
+              {
+                "end": 116,
+                "start": 104,
+                "username": "Psycho_Wiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/gfchxhnm",
+                "end": 145,
+                "expanded_url": "http://t.me/gfchxhnm",
+                "start": 122,
+                "url": "https://t.co/uRB7PdGquY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/726ooQNAiR"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "伊甸园",
+        "name": "椎名Shiina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3037,
+          "following_count": 121,
+          "like_count": 11695,
+          "listed_count": 8,
+          "media_count": 719,
+          "tweet_count": 4275
+        },
+        "url": "https://t.co/726ooQNAiR",
+        "username": "Overdose_Rx",
+        "verified": false
+      }
+    ]
+  }
+}

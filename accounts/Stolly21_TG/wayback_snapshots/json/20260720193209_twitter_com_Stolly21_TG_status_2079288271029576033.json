@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079288258958368768",
+        "3_2079288264436129792"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2079288271029576033",
+    "created_at": "2026-07-20T19:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T20:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079288271029576033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DfJcDgyXFC",
+          "end": 43,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2079288271029576033/photo/1",
+          "media_key": "3_2079288258958368768",
+          "start": 20,
+          "url": "https://t.co/DfJcDgyXFC"
+        },
+        {
+          "display_url": "pic.x.com/DfJcDgyXFC",
+          "end": 43,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2079288271029576033/photo/1",
+          "media_key": "3_2079288264436129792",
+          "start": 20,
+          "url": "https://t.co/DfJcDgyXFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079288271029576033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "枢纽购买了3t棉花糖&gt;ω&lt; https://t.co/DfJcDgyXFC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2079288258958368768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsdp6zaoAAFB_B.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3168,
+        "media_key": "3_2079288264436129792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsdqPNaoAAj2PD.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079288258958368768",
+            "3_2079288264436129792"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2079288271029576033",
+        "created_at": "2026-07-20T19:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079288271029576033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DfJcDgyXFC",
+              "end": 43,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2079288271029576033/photo/1",
+              "media_key": "3_2079288258958368768",
+              "start": 20,
+              "url": "https://t.co/DfJcDgyXFC"
+            },
+            {
+              "display_url": "pic.x.com/DfJcDgyXFC",
+              "end": 43,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2079288271029576033/photo/1",
+              "media_key": "3_2079288264436129792",
+              "start": 20,
+              "url": "https://t.co/DfJcDgyXFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079288271029576033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "枢纽购买了3t棉花糖&gt;ω&lt; https://t.co/DfJcDgyXFC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 244,
+          "like_count": 1542,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 640
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

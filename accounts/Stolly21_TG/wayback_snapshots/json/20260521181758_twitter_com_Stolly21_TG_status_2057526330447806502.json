@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2057526330447806502",
+    "created_at": "2026-05-21T18:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057526330447806502"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057526330447806502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在ed B/N转A/N一阵子了 体重来到了74.8 存下了一些钱 不点外卖了 以前bn的时候所有钱都拿来吃 当我觉得我的物质生活要好转时。现在an倒是花的更频繁了。比如买烟、嗑药 等。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2057526330447806502",
+        "created_at": "2026-05-21T18:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057526330447806502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057526330447806502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在ed B/N转A/N一阵子了 体重来到了74.8 存下了一些钱 不点外卖了 以前bn的时候所有钱都拿来吃 当我觉得我的物质生活要好转时。现在an倒是花的更频繁了。比如买烟、嗑药 等。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Chengdu, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  104.06667,
+                  30.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Chengdu",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "滥用药物者、进食障碍战士、162cm38kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。",
+        "id": "1781745564738281472",
+        "location": "成都",
+        "name": "枢纽Toky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048920886267535360/FoCCE5XG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 12,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 32
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

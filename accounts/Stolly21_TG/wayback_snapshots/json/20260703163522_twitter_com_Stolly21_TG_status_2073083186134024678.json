@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2073075278382047671",
+    "created_at": "2026-07-03T16:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073083186134024678"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073083186134024678",
+    "in_reply_to_user_id": "1781745564738281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073075278382047671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "0:35 就是那种很奇怪的感觉 我能知道自己应该还是有点冷的 因为有时还是有一阵的发抖 但是感觉！就是感觉！很温暖啊~特别是上半身除了手以外的任何地方"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073075274552680448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUK-oRboAAYD2R.jpg",
+        "width": 1542
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2073075274590437376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUK-oabwAA1sEc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2073075278382047671",
+        "created_at": "2026-07-03T16:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073083186134024678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073083186134024678",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073075278382047671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "0:35 就是那种很奇怪的感觉 我能知道自己应该还是有点冷的 因为有时还是有一阵的发抖 但是感觉！就是感觉！很温暖啊~特别是上半身除了手以外的任何地方"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073075274552680448",
+            "3_2073075274590437376"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073075278382047671",
+        "created_at": "2026-07-03T16:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073075278382047671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k5VoI5pACH",
+              "end": 79,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2073075278382047671/photo/1",
+              "media_key": "3_2073075274552680448",
+              "start": 56,
+              "url": "https://t.co/k5VoI5pACH"
+            },
+            {
+              "display_url": "pic.x.com/k5VoI5pACH",
+              "end": 79,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2073075278382047671/photo/1",
+              "media_key": "3_2073075274590437376",
+              "start": 56,
+              "url": "https://t.co/k5VoI5pACH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073075278382047671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "162 36kg 无耐药 空腹\n0:01 电解质水送服白兔36t 我真的吞的好崩溃 喉间异物感。我一直狂喝水。 https://t.co/k5VoI5pACH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 188,
+          "like_count": 1093,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

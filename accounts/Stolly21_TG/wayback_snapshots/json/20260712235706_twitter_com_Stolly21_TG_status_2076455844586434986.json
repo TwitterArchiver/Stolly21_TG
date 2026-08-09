@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076455840182407168"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2076455844586434986",
+    "created_at": "2026-07-12T23:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T00:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076455844586434986"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 13,
+          "tag": "量產型"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dVJFwYJNE4",
+          "end": 41,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2076455844586434986/photo/1",
+          "media_key": "3_2076455840182407168",
+          "start": 18,
+          "url": "https://t.co/dVJFwYJNE4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076455844586434986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你离别人近了就离我远了呀 #量產型 https://t.co/dVJFwYJNE4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3846,
+        "media_key": "3_2076455840182407168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNENlcnbkAAqBgY.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076455840182407168"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2076455844586434986",
+        "created_at": "2026-07-12T23:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T00:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076455844586434986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "量產型"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dVJFwYJNE4",
+              "end": 41,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2076455844586434986/photo/1",
+              "media_key": "3_2076455840182407168",
+              "start": 18,
+              "url": "https://t.co/dVJFwYJNE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076455844586434986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你离别人近了就离我远了呀 #量產型 https://t.co/dVJFwYJNE4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "学习药理的oder、edtwt、162cm35kg、130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 237,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 634
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

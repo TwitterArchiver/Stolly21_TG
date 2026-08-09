@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067236470520492032"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2067236473439740062",
+    "created_at": "2026-06-17T13:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067236473439740062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e9qzW4KAdP",
+          "end": 71,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2067236473439740062/photo/1",
+          "media_key": "3_2067236470520492032",
+          "start": 48,
+          "url": "https://t.co/e9qzW4KAdP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067236473439740062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "luv me给我转100u啊😂😂😂不是大娘你到底是谁啊还是个美国号 我这个联系谁都没给你很吓人 https://t.co/e9qzW4KAdP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067236470520492032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBMngQbMAAOoRH.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067236470520492032"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2067236473439740062",
+        "created_at": "2026-06-17T13:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067236473439740062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e9qzW4KAdP",
+              "end": 71,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2067236473439740062/photo/1",
+              "media_key": "3_2067236470520492032",
+              "start": 48,
+              "url": "https://t.co/e9qzW4KAdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067236473439740062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "luv me给我转100u啊😂😂😂不是大娘你到底是谁啊还是个美国号 我这个联系谁都没给你很吓人 https://t.co/e9qzW4KAdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 73,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

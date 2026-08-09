@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2078303591471947776"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2078303614498722238",
+    "created_at": "2026-07-18T02:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T03:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078303614498722238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TeWHivueCr",
+          "end": 93,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2078303614498722238/video/1",
+          "media_key": "7_2078303591471947776",
+          "start": 70,
+          "url": "https://t.co/TeWHivueCr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078303614498722238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有些妹妹是真的现实，一听我工资1500就不理我了，你记住，我一个月1500是因为一个月只有30天，一个月要是有400天，你看我挣不挣两万？ https://t.co/TeWHivueCr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3069,
+        "height": 720,
+        "media_key": "7_2078303591471947776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2078303591471947776/pu/img/i4IPWlNG_oJOKsCt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078303591471947776/pu/vid/avc1/360x270/BkKTmdnzKr5NPl90.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078303591471947776/pu/vid/avc1/480x360/-AToupA9gQz1fZ7N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078303591471947776/pu/vid/avc1/960x720/hX4AMBOwYqw-XYcx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2078303591471947776/pu/pl/8vymYjgUJxb9nJmU.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2078303591471947776"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2078303614498722238",
+        "created_at": "2026-07-18T02:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078303614498722238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TeWHivueCr",
+              "end": 93,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2078303614498722238/video/1",
+              "media_key": "7_2078303591471947776",
+              "start": 70,
+              "url": "https://t.co/TeWHivueCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078303614498722238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些妹妹是真的现实，一听我工资1500就不理我了，你记住，我一个月1500是因为一个月只有30天，一个月要是有400天，你看我挣不挣两万？ https://t.co/TeWHivueCr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 241,
+          "like_count": 1510,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 637
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

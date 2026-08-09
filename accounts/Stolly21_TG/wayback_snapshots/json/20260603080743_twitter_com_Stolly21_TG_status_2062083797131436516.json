@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2061905667301216585",
+    "created_at": "2026-06-03T08:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062083797131436516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1710447447225597952",
+          "start": 0,
+          "username": "return1125203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062083797131436516",
+    "in_reply_to_user_id": "1710447447225597952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062066193469784162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@return1125203 awww学到了！谢谢您😆😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2061905667301216585",
+        "created_at": "2026-06-03T08:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062083797131436516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1710447447225597952",
+              "start": 0,
+              "username": "return1125203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062083797131436516",
+        "in_reply_to_user_id": "1710447447225597952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062066193469784162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@return1125203 awww学到了！谢谢您😆😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710447447225597952",
+        "conversation_id": "2061905667301216585",
+        "created_at": "2026-06-03T06:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062066193469784162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062066193469784162",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061905667301216585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 解离剂本来就不会呼吸抑制，分离型麻醉为什么安全就是因为它不抑制呼吸系统，呼吸抑制多出现于阿片类和苯二氮卓类等镇定剂，但解离剂会吐会尿不出来。对膀胱和肾有影响。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 38,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 85
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-07T00:10:38.000Z",
+        "description": "",
+        "id": "1710447447225597952",
+        "name": "a半颗瓜子花生",
+        "pinned_tweet_id": "2062055771014307970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877200701341970433/cgYfbWwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 221,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 58
+        },
+        "username": "return1125203",
+        "verified": false
+      }
+    ]
+  }
+}

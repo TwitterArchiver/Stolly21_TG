@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000960292445151239",
+        "3_2000960291363078144",
+        "3_2000960292499738624"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2000960298614972777",
+    "created_at": "2025-12-16T16:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T17:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000960298614972777"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HrZ8dL6RWL",
+          "end": 47,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2000960298614972777/photo/1",
+          "media_key": "3_2000960292445151239",
+          "start": 24,
+          "url": "https://t.co/HrZ8dL6RWL"
+        },
+        {
+          "display_url": "pic.x.com/HrZ8dL6RWL",
+          "end": 47,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2000960298614972777/photo/1",
+          "media_key": "3_2000960291363078144",
+          "start": 24,
+          "url": "https://t.co/HrZ8dL6RWL"
+        },
+        {
+          "display_url": "pic.x.com/HrZ8dL6RWL",
+          "end": 47,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2000960298614972777/photo/1",
+          "media_key": "3_2000960292499738624",
+          "start": 24,
+          "url": "https://t.co/HrZ8dL6RWL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000960298614972777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "dpt初体验。。。犹豫中 请问鼻吸会痛惨吗。。 https://t.co/HrZ8dL6RWL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2000960292445151239",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8TWyNDa4AceIzG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 922,
+        "media_key": "3_2000960291363078144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8TWyJBbwAAdpeU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 922,
+        "media_key": "3_2000960292499738624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8TWyNQb0AAbYoz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000960292445151239",
+            "3_2000960291363078144",
+            "3_2000960292499738624"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000960298614972777",
+        "created_at": "2025-12-16T16:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000960298614972777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HrZ8dL6RWL",
+              "end": 47,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2000960298614972777/photo/1",
+              "media_key": "3_2000960292445151239",
+              "start": 24,
+              "url": "https://t.co/HrZ8dL6RWL"
+            },
+            {
+              "display_url": "pic.x.com/HrZ8dL6RWL",
+              "end": 47,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2000960298614972777/photo/1",
+              "media_key": "3_2000960291363078144",
+              "start": 24,
+              "url": "https://t.co/HrZ8dL6RWL"
+            },
+            {
+              "display_url": "pic.x.com/HrZ8dL6RWL",
+              "end": 47,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2000960298614972777/photo/1",
+              "media_key": "3_2000960292499738624",
+              "start": 24,
+              "url": "https://t.co/HrZ8dL6RWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000960298614972777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "dpt初体验。。。犹豫中 请问鼻吸会痛惨吗。。 https://t.co/HrZ8dL6RWL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "或许这就是命吧。。",
+        "id": "1781745564738281472",
+        "name": "Stolly21_TG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781745841935712256/cJ7woqLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 32
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

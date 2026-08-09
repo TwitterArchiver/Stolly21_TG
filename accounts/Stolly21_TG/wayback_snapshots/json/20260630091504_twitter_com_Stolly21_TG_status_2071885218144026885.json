@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2071649961687544294",
+    "created_at": "2026-06-30T09:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071885218144026885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1828727554972508160",
+          "start": 0,
+          "username": "bluecandy__99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071885218144026885",
+    "in_reply_to_user_id": "1828727554972508160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071649961687544294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluecandy__99 农瑞x电莫是极好的。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2071649956151390209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_6qLdbcAEPGZA.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2071649956151357440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_6qLda8AAOjGx.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2071649961687544294",
+        "created_at": "2026-06-30T09:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071885218144026885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1828727554972508160",
+              "start": 0,
+              "username": "bluecandy__99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071885218144026885",
+        "in_reply_to_user_id": "1828727554972508160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071649961687544294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluecandy__99 农瑞x电莫是极好的。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071649956151390209",
+            "3_2071649956151357440"
+          ]
+        },
+        "author_id": "1828727554972508160",
+        "conversation_id": "2071649961687544294",
+        "created_at": "2026-06-29T17:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071649961687544294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7A2TDNMIlV",
+              "end": 48,
+              "expanded_url": "https://x.com/bluecandy__99/status/2071649961687544294/photo/1",
+              "media_key": "3_2071649956151390209",
+              "start": 25,
+              "url": "https://t.co/7A2TDNMIlV"
+            },
+            {
+              "display_url": "pic.x.com/7A2TDNMIlV",
+              "end": 48,
+              "expanded_url": "https://x.com/bluecandy__99/status/2071649961687544294/photo/1",
+              "media_key": "3_2071649956151357440",
+              "start": 25,
+              "url": "https://t.co/7A2TDNMIlV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071649961687544294",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 2600,
+          "like_count": 225,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "난아직얘네를버리지못했고 영원히재등장을갈망하고 https://t.co/7A2TDNMIlV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 152,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 490
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T09:34:14.000Z",
+        "description": "미애니 덕질계 (릭모 버닝중)",
+        "id": "1828727554972508160",
+        "name": "딩읭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828735772423602176/J3vIFeLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 23,
+          "like_count": 1933,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1389
+        },
+        "url": "",
+        "username": "bluecandy__99",
+        "verified": false
+      }
+    ]
+  }
+}

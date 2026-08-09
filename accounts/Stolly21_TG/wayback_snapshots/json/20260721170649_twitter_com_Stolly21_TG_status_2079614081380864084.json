@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2079430393586213358",
+    "created_at": "2026-07-21T17:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079614081380864084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557571013541789697",
+          "start": 0,
+          "username": "NaneonAster"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079614081380864084",
+    "in_reply_to_user_id": "1557571013541789697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079566156638380141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaneonAster 孩子你是想开普瑞巴林吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2079430393586213358",
+        "created_at": "2026-07-21T17:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079614081380864084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1557571013541789697",
+              "start": 0,
+              "username": "NaneonAster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079614081380864084",
+        "in_reply_to_user_id": "1557571013541789697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079566156638380141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaneonAster 孩子你是想开普瑞巴林吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557571013541789697",
+        "conversation_id": "2079430393586213358",
+        "created_at": "2026-07-21T13:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079566156638380141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079566156638380141",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079430393586213358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 孩子你是想开普瑞巴林吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 243,
+          "like_count": 1558,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 644
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T03:34:18.000Z",
+        "description": "0701诞生日/20↑/INTP-T/helltaker/Arcaea/MaimaiDX\n💙白法院ラグ💙友情向夢💙永爱\n生理女心理不确定\n键政🚫ai使用🚫",
+        "id": "1557571013541789697",
+        "location": "白法院ラグ的床底下",
+        "name": "IroAbyss💫",
+        "pinned_tweet_id": "2034108323017228529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071980803307745280/s_yQLooL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 252,
+          "like_count": 28719,
+          "listed_count": 3,
+          "media_count": 373,
+          "tweet_count": 4158
+        },
+        "url": "",
+        "username": "NaneonAster",
+        "verified": false
+      }
+    ]
+  }
+}

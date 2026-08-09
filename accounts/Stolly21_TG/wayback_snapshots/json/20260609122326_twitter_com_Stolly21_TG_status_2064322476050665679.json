@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2064218714405527945",
+    "created_at": "2026-06-09T12:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064322476050665679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758017610594336768",
+          "start": 0,
+          "username": "RAINtoday_24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064322476050665679",
+    "in_reply_to_user_id": "1758017610594336768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064308109880049968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RAINtoday_24 家长陪同的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2064218714405527945",
+        "created_at": "2026-06-09T12:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064322476050665679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758017610594336768",
+              "start": 0,
+              "username": "RAINtoday_24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064322476050665679",
+        "in_reply_to_user_id": "1758017610594336768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064308109880049968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RAINtoday_24 家长陪同的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758017610594336768",
+        "conversation_id": "2064218714405527945",
+        "created_at": "2026-06-09T11:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064308109880049968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064308109880049968",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064218714405527945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG bb你是自己点菜能开出来还是家长陪同呀…好羡慕哦我医生不给我开，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 60,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 165
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T06:37:37.000Z",
+        "description": "🌧️｜= 雨霁（ jì）｜0国语言掌握者｜游戏、绘画、闲言碎语、r18g｜无立场、退役oder、精神疾病｜如果你认识我，请忘记这里的我｜欢迎互fo关必回",
+        "id": "1758017610594336768",
+        "name": "自由落体如雨",
+        "pinned_tweet_id": "2014312937335517643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010289567858098176/X8rZz577_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 118,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 436
+        },
+        "username": "RAINtoday_24",
+        "verified": false
+      }
+    ]
+  }
+}

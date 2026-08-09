@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2061415042260906335",
+    "created_at": "2026-06-01T11:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061415259307655628"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061415259307655628",
+    "in_reply_to_user_id": "1781745564738281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061415042260906335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是我觉得香芋冰淇淋更好抽 太美妙的味道了。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3058,
+        "height": 960,
+        "media_key": "7_2061415017564737536",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2061415017564737536/pu/img/6J1vwMxMEjout95e.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061415017564737536/pu/vid/avc1/320x426/s2QsoGRID18Mdhrs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061415017564737536/pu/vid/avc1/480x640/c6gnkjZTDWmet8WO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061415017564737536/pu/vid/avc1/720x960/bYU1lA2XL21B3iuo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2061415017564737536/pu/pl/DqYrH5FSb-43FwBM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 6144,
+        "height": 1280,
+        "media_key": "7_2061415019695558656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2061415019695558656/pu/img/gPjwqjPGN7-zfj7u.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061415019695558656/pu/vid/avc1/320x568/j4AgEKAA1JpLlaoF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061415019695558656/pu/vid/avc1/480x852/JiC4BC8GsgqHGX35.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061415019695558656/pu/vid/avc1/720x1280/8izhMxWyE1JlRhje.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2061415019695558656/pu/pl/HOpmIVxCXnNFpudN.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1131,
+        "media_key": "3_2061415019917758464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJueCezaUAA2Bli.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2061415042260906335",
+        "created_at": "2026-06-01T11:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061415259307655628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061415259307655628",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061415042260906335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是我觉得香芋冰淇淋更好抽 太美妙的味道了。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2061415017564737536",
+            "7_2061415019695558656",
+            "3_2061415019917758464"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2061415042260906335",
+        "created_at": "2026-06-01T11:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061415042260906335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIV6YmPoC8",
+              "end": 81,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2061415042260906335/video/1",
+              "media_key": "7_2061415017564737536",
+              "start": 58,
+              "url": "https://t.co/YIV6YmPoC8"
+            },
+            {
+              "display_url": "pic.x.com/YIV6YmPoC8",
+              "end": 81,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2061415042260906335/video/1",
+              "media_key": "7_2061415019695558656",
+              "start": 58,
+              "url": "https://t.co/YIV6YmPoC8"
+            },
+            {
+              "display_url": "pic.x.com/YIV6YmPoC8",
+              "end": 81,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2061415042260906335/video/1",
+              "media_key": "3_2061415019917758464",
+              "start": 58,
+              "url": "https://t.co/YIV6YmPoC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061415042260906335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高维香芋冰淇淋和冰熊桃子冰 冰熊你颜值好高呀！我表白你呀！❤️来自p3 你们快去找他好不好 他好好说话的 发货也快 https://t.co/YIV6YmPoC8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 30,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 63
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

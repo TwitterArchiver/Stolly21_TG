@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2073735513983611355",
+    "created_at": "2026-07-05T16:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073812101655822528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675485572985651200",
+          "start": 0,
+          "username": "q0rE3WKVTt49477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073812101655822528",
+    "in_reply_to_user_id": "1675485572985651200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073761284924006780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q0rE3WKVTt49477 羡慕awwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2073735513983611355",
+        "created_at": "2026-07-05T16:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073812101655822528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675485572985651200",
+              "start": 0,
+              "username": "q0rE3WKVTt49477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073812101655822528",
+        "in_reply_to_user_id": "1675485572985651200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073761284924006780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q0rE3WKVTt49477 羡慕awwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675485572985651200",
+        "conversation_id": "2073735513983611355",
+        "created_at": "2026-07-05T13:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073761284924006780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073761284924006780",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073735513983611355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 连哦两年多了…一天不吃就难受，不过耐药涨的很慢感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 200,
+          "like_count": 1207,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 620
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T12:44:34.000Z",
+        "description": "🎨🧊",
+        "id": "1675485572985651200",
+        "name": "musiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934877164043984896/tHHFJqV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 36,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "q0rE3WKVTt49477",
+        "verified": false
+      }
+    ]
+  }
+}

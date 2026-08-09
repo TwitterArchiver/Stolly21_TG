@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066065607276240896",
+        "7_2066065606282235904"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2066065618932257147",
+    "created_at": "2026-06-14T07:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066065618932257147"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "友達募集"
+        },
+        {
+          "end": 45,
+          "start": 33,
+          "tag": "地雷系さんと繋がりたい"
+        },
+        {
+          "end": 58,
+          "start": 46,
+          "tag": "地雷系女子と繋がりたい"
+        },
+        {
+          "end": 65,
+          "start": 59,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 78,
+          "start": 66,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 85,
+          "start": 79,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 99,
+          "start": 86,
+          "tag": "自撮り界隈の人と繋がたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GSnFt3aiOj",
+          "end": 123,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2066065618932257147/video/1",
+          "media_key": "3_2066065607276240896",
+          "start": 100,
+          "url": "https://t.co/GSnFt3aiOj"
+        },
+        {
+          "display_url": "pic.x.com/GSnFt3aiOj",
+          "end": 123,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2066065618932257147/video/1",
+          "media_key": "7_2066065606282235904",
+          "start": 100,
+          "url": "https://t.co/GSnFt3aiOj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066065618932257147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你那种无聊透顶的人生 被我搞得乱七八糟应该感到荣幸吧 #友達募集 #地雷系さんと繋がりたい #地雷系女子と繋がりたい #地雷系女子 #病み垢さんと繋がりたい #自撮り界隈 #自撮り界隈の人と繋がたい https://t.co/GSnFt3aiOj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066065607276240896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwjuSxaIAAre7c.jpg",
+        "width": 1321
+      },
+      {
+        "duration_ms": 2368,
+        "height": 960,
+        "media_key": "7_2066065606282235904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066065606282235904/pu/img/L5-6en7fr06oklzI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066065606282235904/pu/vid/avc1/320x426/zNgTKeX9tWUY7vZV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066065606282235904/pu/vid/avc1/480x640/fNYUszwGtJ5hOUCx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066065606282235904/pu/vid/avc1/720x960/GYEqlFP1e6ZC2blK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066065606282235904/pu/pl/oWLeTPv7wtXqI9UY.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066065607276240896",
+            "7_2066065606282235904"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2066065618932257147",
+        "created_at": "2026-06-14T07:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066065618932257147"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "友達募集"
+            },
+            {
+              "end": 45,
+              "start": 33,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 58,
+              "start": 46,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 65,
+              "start": 59,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 78,
+              "start": 66,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 85,
+              "start": 79,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 99,
+              "start": 86,
+              "tag": "自撮り界隈の人と繋がたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GSnFt3aiOj",
+              "end": 123,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2066065618932257147/video/1",
+              "media_key": "3_2066065607276240896",
+              "start": 100,
+              "url": "https://t.co/GSnFt3aiOj"
+            },
+            {
+              "display_url": "pic.x.com/GSnFt3aiOj",
+              "end": 123,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2066065618932257147/video/1",
+              "media_key": "7_2066065606282235904",
+              "start": 100,
+              "url": "https://t.co/GSnFt3aiOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066065618932257147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你那种无聊透顶的人生 被我搞得乱七八糟应该感到荣幸吧 #友達募集 #地雷系さんと繋がりたい #地雷系女子と繋がりたい #地雷系女子 #病み垢さんと繋がりたい #自撮り界隈 #自撮り界隈の人と繋がたい https://t.co/GSnFt3aiOj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 72,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 227
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

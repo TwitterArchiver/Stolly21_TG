@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2069083418705752343",
+    "created_at": "2026-06-22T19:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T20:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069137769214161056"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069137769214161056",
+    "in_reply_to_user_id": "1781745564738281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069083418705752343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "3:16 所有东西都变成了红色和绿色 然后我是语音输入 因为我看不清手机屏幕 我只能睁一只眼闭一只眼的看 然后我体感非常舒适 很欣快 很满足 但是我觉得幻不够强啊 打算再加一t思诺思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2069083418705752343",
+        "created_at": "2026-06-22T19:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069137769214161056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069137769214161056",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069083418705752343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3:16 所有东西都变成了红色和绿色 然后我是语音输入 因为我看不清手机屏幕 我只能睁一只眼闭一只眼的看 然后我体感非常舒适 很欣快 很满足 但是我觉得幻不够强啊 打算再加一t思诺思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2069083418705752343",
+        "created_at": "2026-06-22T15:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069083418705752343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069083418705752343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚尝试起始4t普瑞600mg＋2t巴氯芬20mg。每隔45min＋1t加巴300mg（加4次）。距服下普瑞1h后1.5t思诺思15mg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 78,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 330
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

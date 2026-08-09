@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2059558030577217971",
+    "created_at": "2026-05-27T08:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059558030577217971"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059558030577217971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "hiiii:p我是枢纽呀 \n我想＋一些oder、drugtwt、edtwt、看美漫的（尤其是搞mlp、eqg、r&amp;m）\n可能会雷到你：此女又嗑又割、道德底线低、我爱一些地狱梗迷因鬼图、研究精神活性物质\nanyway我没有什么雷点 欢迎成分差不多的和我互fo呀！我爱互动！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2059558030577217971",
+        "created_at": "2026-05-27T08:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059558030577217971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059558030577217971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hiiii:p我是枢纽呀 \n我想＋一些oder、drugtwt、edtwt、看美漫的（尤其是搞mlp、eqg、r&amp;m）\n可能会雷到你：此女又嗑又割、道德底线低、我爱一些地狱梗迷因鬼图、研究精神活性物质\nanyway我没有什么雷点 欢迎成分差不多的和我互fo呀！我爱互动！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。快来找我互fo！！（成分相同。",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048920886267535360/FoCCE5XG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 19,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 46
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2064594493672923152",
+    "created_at": "2026-06-10T06:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064594493672923152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2063169843671793664",
+          "start": 3,
+          "username": "Mercyvxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064594493672923152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064236816203661328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mercyvxv: 戒毒是为了更好的复吸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2064594493672923152",
+        "created_at": "2026-06-10T06:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064594493672923152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2063169843671793664",
+              "start": 3,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064594493672923152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064236816203661328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mercyvxv: 戒毒是为了更好的复吸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2064236816203661328",
+        "created_at": "2026-06-09T06:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064236816203661328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064236816203661328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1211,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "戒毒是为了更好的复吸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 67,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 176
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "我复活了。互fo私信 出普瑞dpt",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 187,
+          "like_count": 330,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 84
+        },
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

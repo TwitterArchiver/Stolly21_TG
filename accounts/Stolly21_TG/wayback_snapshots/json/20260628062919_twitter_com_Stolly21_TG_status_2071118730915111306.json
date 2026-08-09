@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2071118690976985088"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2071118730915111306",
+    "created_at": "2026-06-28T06:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071118730915111306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PCBKvIPeHt",
+          "end": 62,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2071118730915111306/video/1",
+          "media_key": "7_2071118690976985088",
+          "start": 39,
+          "url": "https://t.co/PCBKvIPeHt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071118730915111306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是地雷系假发~~ 刚到货的时候特别绝望。然后我现在打理好了！！๑⁃̀⩊⁃́๑ https://t.co/PCBKvIPeHt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12309,
+        "height": 1280,
+        "media_key": "7_2071118690976985088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071118690976985088/pu/img/7p8AUbwKAaz3yEoU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071118690976985088/pu/vid/avc1/320x568/lxrCy49wdTzM4M8C.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071118690976985088/pu/vid/avc1/480x852/x4anIMfC8bQkrBMF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071118690976985088/pu/vid/avc1/720x1280/KbTaOGdCdcWzkdZM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071118690976985088/pu/pl/9JGmmYbgKSFQyvKH.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2071118690976985088"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2071118730915111306",
+        "created_at": "2026-06-28T06:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071118730915111306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PCBKvIPeHt",
+              "end": 62,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2071118730915111306/video/1",
+              "media_key": "7_2071118690976985088",
+              "start": 39,
+              "url": "https://t.co/PCBKvIPeHt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071118730915111306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是地雷系假发~~ 刚到货的时候特别绝望。然后我现在打理好了！！๑⁃̀⩊⁃́๑ https://t.co/PCBKvIPeHt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 138,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

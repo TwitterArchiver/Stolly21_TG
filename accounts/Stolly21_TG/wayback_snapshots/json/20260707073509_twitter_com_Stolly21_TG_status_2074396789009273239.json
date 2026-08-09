@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2074394593534284057",
+    "created_at": "2026-07-07T07:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074396789009273239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1908957018469085184",
+          "start": 0,
+          "username": "ml921127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074396789009273239",
+    "in_reply_to_user_id": "1908957018469085184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074394593534284057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ml921127 哎呀我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074394585032523776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMm64mzbgAARa1-.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2074394593534284057",
+        "created_at": "2026-07-07T07:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074396789009273239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1908957018469085184",
+              "start": 0,
+              "username": "ml921127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074396789009273239",
+        "in_reply_to_user_id": "1908957018469085184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074394593534284057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ml921127 哎呀我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074394585032523776"
+          ]
+        },
+        "author_id": "1908957018469085184",
+        "conversation_id": "2074394593534284057",
+        "created_at": "2026-07-07T07:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074394593534284057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QgGlvi7giQ",
+              "end": 39,
+              "expanded_url": "https://x.com/ml921127/status/2074394593534284057/photo/1",
+              "media_key": "3_2074394585032523776",
+              "start": 16,
+              "url": "https://t.co/QgGlvi7giQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074394593534284057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟。兄弟。我暂时还想自由几年 https://t.co/QgGlvi7giQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 217,
+          "like_count": 1319,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T18:56:49.000Z",
+        "description": "药物会带我们逃离这个世界，要和Archer一起吗这里很安全^^（非同圈闲聊🚪188\n不约炮不下海，男的再问4000+关注我的我会查成分。你在看我的同时我也在看你。提问箱https://t.co/BguYWWr14J",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ar96376",
+                "end": 107,
+                "expanded_url": "https://ngl.link/ar96376",
+                "start": 84,
+                "url": "https://t.co/BguYWWr14J"
+              }
+            ]
+          }
+        },
+        "id": "1908957018469085184",
+        "name": "Archer",
+        "pinned_tweet_id": "2070783668377858442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070820490600407040/KnVuGfp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 39,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "ml921127",
+        "verified": false
+      }
+    ]
+  }
+}

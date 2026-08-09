@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2072305799108690016",
+    "created_at": "2026-07-02T05:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072559894050566437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755664020944941056",
+          "start": 0,
+          "username": "Korewoizontoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072559894050566437",
+    "in_reply_to_user_id": "1755664020944941056",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072559346463232344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Korewoizontoyo aaaa (ૢ˃ꌂ˂⁎)❤️❤️❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2072305799108690016",
+        "created_at": "2026-07-02T05:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072559894050566437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "Korewoizontoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072559894050566437",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072559346463232344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Korewoizontoyo aaaa (ૢ˃ꌂ˂⁎)❤️❤️❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755664020944941056",
+        "conversation_id": "2072305799108690016",
+        "created_at": "2026-07-02T05:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072559346463232344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072559346463232344",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072305799108690016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 我的互关有樱花妹呀。🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 171,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 533
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。oder。自残自伤。我会查成分回关。\n只是一个互联网神人而已，你拉黑我的话我就死了。 \n \n我最重要最爱的女孩@6De_dian 🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "6De_dian"
+              }
+            ]
+          }
+        },
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2067641877361541426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072550280047321088/SM9rfL6w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 493,
+          "like_count": 3129,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 980
+        },
+        "url": "",
+        "username": "Korewoizontoyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2060240508006678768",
+    "created_at": "2026-05-29T06:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060242978892115991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039398734962761728",
+          "start": 0,
+          "username": "EsterBrown38007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060242978892115991",
+    "in_reply_to_user_id": "2039398734962761728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060242215130317011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EsterBrown38007 注意身体呀 小心酮症酸中毒🥺❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2060240508006678768",
+        "created_at": "2026-05-29T06:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060242978892115991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060242978892115991",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060242215130317011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 注意身体呀 小心酮症酸中毒🥺❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2060240508006678768",
+        "created_at": "2026-05-29T06:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060242215130317011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060242215130317011",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060241809280999859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 我这两周嗑药磕的没怎么吃饭直接酮体爆炸💥了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2060183749997015115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 25,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 58
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09.3.7/OD/宅逼且社交孤儿/很温良接受程度很高/欢迎找我互fo聊天",
+        "id": "2039398734962761728",
+        "location": "天堂",
+        "name": "Kimika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059562968971653121/Jr2Ciiee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 20,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 40
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

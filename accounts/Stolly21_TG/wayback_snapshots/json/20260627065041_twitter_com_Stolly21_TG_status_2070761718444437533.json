@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2070698614075314266",
+    "created_at": "2026-06-27T06:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070761718444437533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1248262946175606785",
+          "start": 0,
+          "username": "_gummy_bear___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070761718444437533",
+    "in_reply_to_user_id": "1248262946175606785",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070761541201174572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_gummy_bear___ awwww🥺🥺💕💕💕💞💞💞💓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2070698614075314266",
+        "created_at": "2026-06-27T06:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070761718444437533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1248262946175606785",
+              "start": 0,
+              "username": "_gummy_bear___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070761718444437533",
+        "in_reply_to_user_id": "1248262946175606785",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070761541201174572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_gummy_bear___ awwww🥺🥺💕💕💕💞💞💞💓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248262946175606785",
+        "conversation_id": "2070698614075314266",
+        "created_at": "2026-06-27T06:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070761541201174572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070761541201174572",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070698614075314266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 宝宝超级萌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 124,
+          "like_count": 664,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-09T14:54:22.000Z",
+        "description": "in school//drawing//AI🚫//poor english//commission close//od//gore❗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/ricecandy000",
+                "end": 23,
+                "expanded_url": "https://vgen.co/ricecandy000",
+                "start": 0,
+                "url": "https://t.co/IAZCto6qvm"
+              }
+            ]
+          }
+        },
+        "id": "1248262946175606785",
+        "location": "in terraria",
+        "name": "ricecandy|･з･)｡",
+        "pinned_tweet_id": "1953015869518258493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055565511144960000/PJ7vv65__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 1192,
+          "like_count": 2242,
+          "listed_count": 3,
+          "media_count": 17,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/IAZCto6qvm",
+        "username": "_gummy_bear___",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2074002402613858450",
+    "created_at": "2026-07-06T10:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074082245258928180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1916867242970783745",
+          "start": 0,
+          "username": "kurokawaMKII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074082245258928180",
+    "in_reply_to_user_id": "1916867242970783745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074081986491318751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurokawaMKII 诶我不知道sry˃ ˄ ˂̥̥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2074002402613858450",
+        "created_at": "2026-07-06T10:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074082245258928180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1916867242970783745",
+              "start": 0,
+              "username": "kurokawaMKII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074082245258928180",
+        "in_reply_to_user_id": "1916867242970783745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074081986491318751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurokawaMKII 诶我不知道sry˃ ˄ ˂̥̥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916867242970783745",
+        "conversation_id": "2074002402613858450",
+        "created_at": "2026-07-06T10:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074081986491318751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074081986491318751",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074002402613858450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 日本本地在哪买我好想知道，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 210,
+          "like_count": 1259,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 645
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T14:49:19.000Z",
+        "description": "关西在日猾人 / ftx=enby / 头顶似乎有吸引同学鞋底的魔力",
+        "id": "1916867242970783745",
+        "name": "黑川马加爵",
+        "pinned_tweet_id": "2034311953628475781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073698059943559169/o2mExR6S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 731,
+          "like_count": 2885,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 519
+        },
+        "url": "",
+        "username": "kurokawaMKII",
+        "verified": false
+      }
+    ]
+  }
+}

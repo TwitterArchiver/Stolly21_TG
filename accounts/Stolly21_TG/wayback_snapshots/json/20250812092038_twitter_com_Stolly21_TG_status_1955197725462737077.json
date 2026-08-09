@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "1955197725462737077",
+    "created_at": "2025-08-12T09:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T10:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955197725462737077"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1955197725462737077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到仇人过得比我惨真是欢天喜地啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "1955197725462737077",
+        "created_at": "2025-08-12T09:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T10:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955197725462737077"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955197725462737077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到仇人过得比我惨真是欢天喜地啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "或许这就是命吧。。",
+        "id": "1781745564738281472",
+        "name": "Stolly21_TG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781745841935712256/cJ7woqLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 8,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2079376127420932550",
+    "created_at": "2026-07-21T22:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T23:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079697448730292572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1797273760325877760",
+          "start": 0,
+          "username": "xyv__3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079697448730292572",
+    "in_reply_to_user_id": "1797273760325877760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079376127420932550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyv__3 我现实朋友发现后和我切割了qwq 羡慕鱼鱼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2079376127420932550",
+        "created_at": "2026-07-21T22:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T23:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079697448730292572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1797273760325877760",
+              "start": 0,
+              "username": "xyv__3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079697448730292572",
+        "in_reply_to_user_id": "1797273760325877760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079376127420932550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyv__3 我现实朋友发现后和我切割了qwq 羡慕鱼鱼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797273760325877760",
+        "conversation_id": "2079376127420932550",
+        "created_at": "2026-07-21T01:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079376127420932550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079376127420932550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 900,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直觉得很神奇，为什么在我营造健全人设下认识的朋友，在发现其实我是个精神状态极差od酗酒自残的人后居然都能完全接受，甚至觉得我适度嗑药是好事🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 242,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 649
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T14:27:20.000Z",
+        "description": "世界大爆炸，互fo大欢迎\n可以叫我小鱼🐟07-双相-药物滥用-量产&地雷\n欢迎大家找我聊天\n碎碎念，啥都发\n戒割半年，此账号极少发od相关，或许有概率可以发现我的二重身…",
+        "id": "1797273760325877760",
+        "location": "不收🚪不加联系方式",
+        "name": "3600斤",
+        "pinned_tweet_id": "2079387191143489757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797280153359499264/xavXjUcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 84,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "xyv__3",
+        "verified": false
+      }
+    ]
+  }
+}

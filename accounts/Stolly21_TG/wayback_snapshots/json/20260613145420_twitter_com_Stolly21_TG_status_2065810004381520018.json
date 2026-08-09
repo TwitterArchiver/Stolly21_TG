@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2065809791277244813",
+    "created_at": "2026-06-13T14:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065810004381520018"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065810004381520018",
+    "in_reply_to_user_id": "1781745564738281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065809791277244813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我戒了他娘逼的几个月的普瑞就为了今天你们懂不 今晚将非常疯狂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2167,
+        "height": 720,
+        "media_key": "7_2065809763561254912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065809763561254912/pu/img/2n4DQEJn1yHrlBl5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065809763561254912/pu/vid/avc1/360x270/zM8Xa8Vdz-zRAxvR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065809763561254912/pu/vid/avc1/480x360/H_R3e3KzGjXvhbRx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065809763561254912/pu/vid/avc1/960x720/WJ0slrDrO47OHJFH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065809763561254912/pu/pl/EfbJhOhfnou2AdYq.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2065809791277244813",
+        "created_at": "2026-06-13T14:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065810004381520018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065810004381520018",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065809791277244813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我戒了他娘逼的几个月的普瑞就为了今天你们懂不 今晚将非常疯狂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065809763561254912"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2065809791277244813",
+        "created_at": "2026-06-13T14:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065809791277244813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5WC0DHcoE",
+              "end": 56,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2065809791277244813/video/1",
+              "media_key": "7_2065809763561254912",
+              "start": 33,
+              "url": "https://t.co/S5WC0DHcoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065809791277244813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "900mg普瑞＋20mg巴氯芬 162cm36kg 空腹无耐药😋 https://t.co/S5WC0DHcoE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 71,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 208
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

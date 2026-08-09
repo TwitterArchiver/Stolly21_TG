@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2064218714405527945",
+    "created_at": "2026-06-09T08:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064267229982785692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1790436003645386752",
+          "start": 0,
+          "username": "Y91NWctYgN53066"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064267229982785692",
+    "in_reply_to_user_id": "1790436003645386752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064261052280271203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y91NWctYgN53066 就是吧就是吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2064218714405527945",
+        "created_at": "2026-06-09T08:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064267229982785692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790436003645386752",
+              "start": 0,
+              "username": "Y91NWctYgN53066"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064267229982785692",
+        "in_reply_to_user_id": "1790436003645386752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064261052280271203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y91NWctYgN53066 就是吧就是吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790436003645386752",
+        "conversation_id": "2064218714405527945",
+        "created_at": "2026-06-09T08:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064261052280271203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064261052280271203",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064218714405527945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 思诺思真的是神药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 58,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 158
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T17:36:31.000Z",
+        "description": "188/520/1314/5200 拥有美丽可爱迷人性感的小狗～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anan47219",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anan47219",
+                "start": 0,
+                "url": "https://t.co/R4cSeb6rFx"
+              }
+            ]
+          }
+        },
+        "id": "1790436003645386752",
+        "location": "0.68km",
+        "name": "小安摇摆不定",
+        "pinned_tweet_id": "1962133419686806007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975534025638092803/9weXBGuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 21,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 738
+        },
+        "url": "https://t.co/R4cSeb6rFx",
+        "username": "Y91NWctYgN53066",
+        "verified": false
+      }
+    ]
+  }
+}

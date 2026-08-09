@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2063536298393317875",
+    "created_at": "2026-06-07T11:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063582141678788978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1516403928396619780",
+          "start": 0,
+          "username": "AllforOverdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063582141678788978",
+    "in_reply_to_user_id": "1516403928396619780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063536298393317875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AllforOverdose 蹲测评🤤🤤我的还没发货"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4466,
+        "height": 1280,
+        "media_key": "13_2063536212221325312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063536212221325312/img/wNbRO9hgBFCM6VzW.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063536212221325312/vid/avc1/320x568/ym3itGH2GTSXGbZU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063536212221325312/vid/avc1/480x852/8EYshcl7HQ3kHRXn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063536212221325312/vid/avc1/720x1280/UTjeJ_Rt3SI9aYQm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063536212221325312/pl/bLqTWv3khsCWDoRy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2063536298393317875",
+        "created_at": "2026-06-07T11:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063582141678788978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1516403928396619780",
+              "start": 0,
+              "username": "AllforOverdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063582141678788978",
+        "in_reply_to_user_id": "1516403928396619780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063536298393317875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AllforOverdose 蹲测评🤤🤤我的还没发货"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063536212221325312"
+          ]
+        },
+        "author_id": "1516403928396619780",
+        "conversation_id": "2063536298393317875",
+        "created_at": "2026-06-07T08:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063536298393317875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/itjXFZ0Skc",
+              "end": 29,
+              "expanded_url": "https://x.com/AllforOverdose/status/2063536298393317875/video/1",
+              "media_key": "13_2063536212221325312",
+              "start": 6,
+              "url": "https://t.co/itjXFZ0Skc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063536298393317875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女孩，女孩 https://t.co/itjXFZ0Skc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 47,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 133
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T13:10:54.000Z",
+        "description": "性别代词随意 \ndol重度依赖\nod/尼古丁摄入中 互fo，互fo来了\n讨厌厕妹的请不要过来",
+        "id": "1516403928396619780",
+        "name": "凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040179776972017664/YUjvQZjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 34
+        },
+        "username": "AllforOverdose",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2071325643808333824"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2071325669703975055",
+    "created_at": "2026-06-28T20:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T21:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071325669703975055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9mjXsQ3N6N",
+          "end": 35,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2071325669703975055/video/1",
+          "media_key": "7_2071325643808333824",
+          "start": 12,
+          "url": "https://t.co/9mjXsQ3N6N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071325669703975055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天看着这一堆心情舒适 https://t.co/9mjXsQ3N6N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5269,
+        "height": 1280,
+        "media_key": "7_2071325643808333824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071325643808333824/pu/img/UUeJsg7bHLDb-Rpg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071325643808333824/pu/vid/avc1/320x568/wYguYDUOIhhbU7Lj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071325643808333824/pu/vid/avc1/480x852/hzmOGqDBM_OeOmWa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071325643808333824/pu/vid/avc1/720x1280/bj7MWiet4Ci6XswF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071325643808333824/pu/pl/ixN623FKuEKH9GKn.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2071325643808333824"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2071325669703975055",
+        "created_at": "2026-06-28T20:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071325669703975055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mjXsQ3N6N",
+              "end": 35,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2071325669703975055/video/1",
+              "media_key": "7_2071325643808333824",
+              "start": 12,
+              "url": "https://t.co/9mjXsQ3N6N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071325669703975055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天看着这一堆心情舒适 https://t.co/9mjXsQ3N6N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 146,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

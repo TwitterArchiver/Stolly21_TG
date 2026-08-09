@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2067621996624851210",
+    "created_at": "2026-06-19T15:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067988692686557210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1872858571563753472",
+          "start": 0,
+          "username": "c020402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067988692686557210",
+    "in_reply_to_user_id": "1872858571563753472",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067947565455409246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c020402 ⌯ ᳐ ÒωÓ ᳐ I|⌯💗💗💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2067621996624851210",
+        "created_at": "2026-06-19T15:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067988692686557210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1872858571563753472",
+              "start": 0,
+              "username": "c020402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067988692686557210",
+        "in_reply_to_user_id": "1872858571563753472",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067947565455409246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c020402 ⌯ ᳐ ÒωÓ ᳐ I|⌯💗💗💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872858571563753472",
+        "conversation_id": "2067621996624851210",
+        "created_at": "2026-06-19T12:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067947565455409246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067947565455409246",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067621996624851210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 好漂亮☆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 74,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 284
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T04:14:21.000Z",
+        "description": "hold me now!",
+        "id": "1872858571563753472",
+        "name": "C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060947855200952320/JE-P-e1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "c020402",
+        "verified": false
+      }
+    ]
+  }
+}

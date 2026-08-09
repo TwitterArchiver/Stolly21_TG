@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2063948792647585802",
+    "created_at": "2026-06-08T11:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063951591192047779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2057425772198215680",
+          "start": 0,
+          "username": "boqiaoahm4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063951591192047779",
+    "in_reply_to_user_id": "2057425772198215680",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063948792647585802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boqiaoahm4 kawaii😽😽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063948771927748609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSeeQlbcAEem--.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2063948792647585802",
+        "created_at": "2026-06-08T11:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063951591192047779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063951591192047779",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063948792647585802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 kawaii😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063948771927748609"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063948792647585802",
+        "created_at": "2026-06-08T11:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063948792647585802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EyktjHGzap",
+              "end": 34,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2063948792647585802/photo/1",
+              "media_key": "3_2063948771927748609",
+              "start": 11,
+              "url": "https://t.co/EyktjHGzap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063948792647585802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这件衣服超级可爱嘿嘿 https://t.co/EyktjHGzap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 53,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 143
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 279,
+          "like_count": 1039,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 840
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2070178201289281906",
+    "created_at": "2026-06-25T19:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T20:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070224515603534091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1765577804815716352",
+          "start": 0,
+          "username": "Maximillia56279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070224515603534091",
+    "in_reply_to_user_id": "1765577804815716352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070200305577505251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maximillia56279 看你吃的75毫克还是150毫克吧 我是吃到1500~2000mg就很舒服！基本1h开始爽。持续三个小时吧 普瑞确实会让人有点困 熬过困的那个时期就可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2070178201289281906",
+        "created_at": "2026-06-25T19:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T20:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070224515603534091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1765577804815716352",
+              "start": 0,
+              "username": "Maximillia56279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070224515603534091",
+        "in_reply_to_user_id": "1765577804815716352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070200305577505251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maximillia56279 看你吃的75毫克还是150毫克吧 我是吃到1500~2000mg就很舒服！基本1h开始爽。持续三个小时吧 普瑞确实会让人有点困 熬过困的那个时期就可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765577804815716352",
+        "conversation_id": "2070178201289281906",
+        "created_at": "2026-06-25T17:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070200305577505251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070200305577505251",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070178201289281906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 老师普瑞巴林，药效是多少，第一次吃 5 粒➕两个阿普唑仑。持续效果多少，我现在有点困意正常吗，其他没啥反应"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 98,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T03:19:03.000Z",
+        "description": "头像是本人渴望致幻，大学生是🌈，颜值在线。",
+        "id": "1765577804815716352",
+        "location": "0.98km",
+        "name": "在逃大学生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070203209268985857/DVMPUdRf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 1715,
+          "like_count": 1286,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "Maximillia56279",
+        "verified": false
+      }
+    ]
+  }
+}

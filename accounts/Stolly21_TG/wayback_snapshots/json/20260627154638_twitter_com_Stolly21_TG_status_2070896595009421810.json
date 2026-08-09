@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2070690891451531643",
+    "created_at": "2026-06-27T15:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070896595009421810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1661418553801580544",
+          "start": 0,
+          "username": "Nzstz53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070896595009421810",
+    "in_reply_to_user_id": "1661418553801580544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070885796895441211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nzstz53 wow所以还是看个人选择吗！😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2070690891451531643",
+        "created_at": "2026-06-27T15:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070896595009421810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1661418553801580544",
+              "start": 0,
+              "username": "Nzstz53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070896595009421810",
+        "in_reply_to_user_id": "1661418553801580544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070885796895441211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nzstz53 wow所以还是看个人选择吗！😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661418553801580544",
+        "conversation_id": "2070690891451531643",
+        "created_at": "2026-06-27T15:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070885796895441211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070885796895441211",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070690891451531643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 右美沙芬联用 CYP2D6 酶抑制剂，通常会提升它的音乐欣赏能力、降低解离效果，情绪提升以及抗抑郁效果。\n\n如果联用安非他酮的话，效果至少会持续到第二天下午，但也会增加副作用，比如：\n1. 心率提升\n2. 血压飙升\n3. 体温升高\n如果联用 CYP3A4 酶抑制剂的话（比如说西柚汁和克拉霉素通常效果提升并不大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 128,
+          "like_count": 688,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T17:07:22.000Z",
+        "description": "😊",
+        "id": "1661418553801580544",
+        "name": "κ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004932256914440197/Z0wcEEtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 24,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "Nzstz53",
+        "verified": false
+      }
+    ]
+  }
+}

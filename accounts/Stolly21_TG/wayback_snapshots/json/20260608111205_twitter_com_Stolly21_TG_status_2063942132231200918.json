@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2063773432450560494",
+    "created_at": "2026-06-08T11:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063942132231200918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2031715041196875776",
+          "start": 0,
+          "username": "YiJin_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063942132231200918",
+    "in_reply_to_user_id": "2031715041196875776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063941427063935121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiJin_0v0 谢谢你呀！我妈道德感太高了不想帮我代。明天下午陪同说是😿😿😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2063773432450560494",
+        "created_at": "2026-06-08T11:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063942132231200918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2031715041196875776",
+              "start": 0,
+              "username": "YiJin_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063942132231200918",
+        "in_reply_to_user_id": "2031715041196875776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063941427063935121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiJin_0v0 谢谢你呀！我妈道德感太高了不想帮我代。明天下午陪同说是😿😿😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031715041196875776",
+        "conversation_id": "2063773432450560494",
+        "created_at": "2026-06-08T11:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063941427063935121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063941427063935121",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063773432450560494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 未成年都需要有家长陪同才能开到，而且sns也一般不会放给未成年，这边还是建议找成年人代开一下🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 51,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 142
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "不发帖就是被抓进精神病院了【寻回推u】\n- ✰*🎀ੈ✩🍥✰*💗ੈ✩-\n生活在互联网！查成分回fo/我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重失眠 -12现役初中生\n^✟❀上有小下有老❀小号@Shivam3228❀@elna_elvie9091✿✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "elna_elvie9091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/BEawMTYyNs"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "你看看你身后",
+        "name": "3.霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2062221902165446782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052347801045200896/4j5q_ZbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 861,
+          "like_count": 8490,
+          "listed_count": 3,
+          "media_count": 250,
+          "tweet_count": 4993
+        },
+        "url": "https://t.co/BEawMTYyNs",
+        "username": "YiJin_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

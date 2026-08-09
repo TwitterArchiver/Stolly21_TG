@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2068949055712190973",
+    "created_at": "2026-06-23T03:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T04:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069255546088411291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053188363566391296",
+          "start": 0,
+          "username": "ayahuasca6948"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069255546088411291",
+    "in_reply_to_user_id": "2053188363566391296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069184778369433690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayahuasca6948 是吧是吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2068949055712190973",
+        "created_at": "2026-06-23T03:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T04:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069255546088411291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053188363566391296",
+              "start": 0,
+              "username": "ayahuasca6948"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069255546088411291",
+        "in_reply_to_user_id": "2053188363566391296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069184778369433690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayahuasca6948 是吧是吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053188363566391296",
+        "conversation_id": "2068949055712190973",
+        "created_at": "2026-06-22T22:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T23:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069184778369433690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069184778369433690",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068949055712190973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 我支持你了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 79,
+          "like_count": 515,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T19:00:39.000Z",
+        "description": "死藤水改革歸來，看廣州禁毒土崩瓦解，化學極樂的日子終將到來。",
+        "id": "2053188363566391296",
+        "name": "Len1n",
+        "pinned_tweet_id": "2056634860186530096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053188556403945472/rkYeyjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 20,
+          "like_count": 4228,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 393
+        },
+        "url": "",
+        "username": "ayahuasca6948",
+        "verified": false
+      }
+    ]
+  }
+}

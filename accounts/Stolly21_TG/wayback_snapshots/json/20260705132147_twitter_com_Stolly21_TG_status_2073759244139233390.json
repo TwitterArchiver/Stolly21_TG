@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2073735513983611355",
+    "created_at": "2026-07-05T13:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073759244139233390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1676927258714587140",
+          "start": 0,
+          "username": "7xllhs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073759244139233390",
+    "in_reply_to_user_id": "1676927258714587140",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073753796216570237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7xllhs 唉！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2073735513983611355",
+        "created_at": "2026-07-05T13:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073759244139233390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676927258714587140",
+              "start": 0,
+              "username": "7xllhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073759244139233390",
+        "in_reply_to_user_id": "1676927258714587140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073753796216570237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7xllhs 唉！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676927258714587140",
+        "conversation_id": "2073735513983611355",
+        "created_at": "2026-07-05T13:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073753796216570237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073753796216570237",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073735513983611355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 都要OD了干啥在意那么多！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 200,
+          "like_count": 1202,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 615
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T12:13:26.000Z",
+        "description": "互of互转🉑\n@RPrdeo 狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "RPrdeo"
+              }
+            ]
+          }
+        },
+        "id": "1676927258714587140",
+        "location": "天堂",
+        "name": "月読　ひな乃",
+        "pinned_tweet_id": "2072980828167221577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931451560007290881/J0VcGnxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 32,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "7xllhs",
+        "verified": false
+      }
+    ]
+  }
+}

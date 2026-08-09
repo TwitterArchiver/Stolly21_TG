@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080132349438873600",
+        "13_2080132363028488192"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2080132383798673611",
+    "created_at": "2026-07-23T03:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080132383798673611"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 27,
+          "tag": "量產型女子"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "量產型"
+        },
+        {
+          "end": 48,
+          "start": 39,
+          "tag": "jiraikei"
+        },
+        {
+          "end": 57,
+          "start": 49,
+          "tag": "lizlisa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d1Ti49V85m",
+          "end": 81,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2080132383798673611/video/1",
+          "media_key": "3_2080132349438873600",
+          "start": 58,
+          "url": "https://t.co/d1Ti49V85m"
+        },
+        {
+          "display_url": "pic.x.com/d1Ti49V85m",
+          "end": 81,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2080132383798673611/video/1",
+          "media_key": "13_2080132363028488192",
+          "start": 58,
+          "url": "https://t.co/d1Ti49V85m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080132383798673611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近狀態低浮上꒰꒪꒫꒪⌯꒱ （這套要穿成默認皮膚了。。#量產型女子 #量產型 #jiraikei #lizlisa https://t.co/d1Ti49V85m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2866,
+        "media_key": "3_2080132349438873600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4dWc4aUAAP-00.jpg",
+        "width": 2150
+      },
+      {
+        "duration_ms": 2700,
+        "height": 720,
+        "media_key": "13_2080132363028488192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080132363028488192/img/winwP3DzNTFzseX-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080132363028488192/vid/avc1/360x270/bRcj-ucZRp_SBDGg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080132363028488192/vid/avc1/480x360/-FC4KqrbRfVcr3gA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080132363028488192/vid/avc1/960x720/6BI3aKjJNFnFdSOe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080132363028488192/pl/q1OWSb3mIHc34_R6.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080132349438873600",
+            "13_2080132363028488192"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2080132383798673611",
+        "created_at": "2026-07-23T03:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080132383798673611"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "量產型女子"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "量產型"
+            },
+            {
+              "end": 48,
+              "start": 39,
+              "tag": "jiraikei"
+            },
+            {
+              "end": 57,
+              "start": 49,
+              "tag": "lizlisa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d1Ti49V85m",
+              "end": 81,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2080132383798673611/video/1",
+              "media_key": "3_2080132349438873600",
+              "start": 58,
+              "url": "https://t.co/d1Ti49V85m"
+            },
+            {
+              "display_url": "pic.x.com/d1Ti49V85m",
+              "end": 81,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2080132383798673611/video/1",
+              "media_key": "13_2080132363028488192",
+              "start": 58,
+              "url": "https://t.co/d1Ti49V85m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080132383798673611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近狀態低浮上꒰꒪꒫꒪⌯꒱ （這套要穿成默認皮膚了。。#量產型女子 #量產型 #jiraikei #lizlisa https://t.co/d1Ti49V85m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 242,
+          "like_count": 1589,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 656
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

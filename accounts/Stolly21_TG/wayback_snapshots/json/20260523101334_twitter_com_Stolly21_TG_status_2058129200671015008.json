@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2057783790618259736",
+    "created_at": "2026-05-23T10:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058129200671015008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1977768201414197248",
+          "start": 0,
+          "username": "hi682383713928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058129200671015008",
+    "in_reply_to_user_id": "1977768201414197248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057783790618259736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hi682383713928 想要！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2057783790618259736",
+        "created_at": "2026-05-23T10:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058129200671015008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1977768201414197248",
+              "start": 0,
+              "username": "hi682383713928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058129200671015008",
+        "in_reply_to_user_id": "1977768201414197248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057783790618259736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hi682383713928 想要！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977768201414197248",
+        "conversation_id": "2057783790618259736",
+        "created_at": "2026-05-22T11:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057783790618259736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057783790618259736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我能开到sns你们有想要的吗 但是医生应该只给我开一盒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Chengdu, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  104.06667,
+                  30.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Chengdu",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "滥用药物者、进食障碍战士、162cm38kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。",
+        "id": "1781745564738281472",
+        "location": "成都",
+        "name": "枢纽Toky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048920886267535360/FoCCE5XG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 14,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 33
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T16:07:54.000Z",
+        "description": "为何痛苦伴我如影随形\n➕🛰️Prunus-padus-L\n➕企鹅2918543818\n我是海 你想怎么叫我都可以 od/自残/精神病/精分双向/mha/胜出相关/杂食可能会转发cp相关雷到你了真是对不起 但是你又能怎么样呢👌\n感谢关注 认识你们会让我很开心",
+        "id": "1977768201414197248",
+        "name": "海",
+        "pinned_tweet_id": "2055627277178900693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045638773766262784/IRwYrsp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 96,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 127
+        },
+        "username": "hi682383713928",
+        "verified": false
+      }
+    ]
+  }
+}

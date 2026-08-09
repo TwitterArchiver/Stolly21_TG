@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2073977100831482060",
+    "created_at": "2026-07-06T14:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T15:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074142035419021692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065198847698337792",
+          "start": 0,
+          "username": "mzmorz8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074142035419021692",
+    "in_reply_to_user_id": "2065198847698337792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073977100831482060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzmorz8964 对。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2073977100831482060",
+        "created_at": "2026-07-06T14:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074142035419021692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065198847698337792",
+              "start": 0,
+              "username": "mzmorz8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074142035419021692",
+        "in_reply_to_user_id": "2065198847698337792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073977100831482060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzmorz8964 对。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065198847698337792",
+        "conversation_id": "2073977100831482060",
+        "created_at": "2026-07-06T03:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073977100831482060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073977100831482060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "进食障碍应该是最影响身体的精神疾病了……就我个人来说，每次都必须饿到生理极限才能去进食，边吃边反胃，吃完需要立刻去吐掉80%的食物……有些甚至是还在食道里的食物块，吐出来非常痛。长期呕吐还会伤害食道、胃壁和口腔黏膜\n除此之外还有概率伴随肠易激综合征，经常莫名其妙的肠痉挛并且吸收很差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 213,
+          "like_count": 1285,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 654
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T22:27:35.000Z",
+        "description": "只存在于互联网的精神病人｜泛男  友跨  不鉴证｜ 高中休学中 ｜焦虑 双相  PTSD  DPDR  BPD倾向（因年龄问题无法确诊）｜大家都要好好活下去 ｜随时可以找我聊天或者骚扰｜梦想是在七月十九日和人一起回归天空｜微查成分互fo",
+        "id": "2065198847698337792",
+        "location": "終ノ空",
+        "name": "翻过护栏即可通往天堂",
+        "pinned_tweet_id": "2072018009477255406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072879285581545472/OSEMd5Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 80,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "mzmorz8964",
+        "verified": false
+      }
+    ]
+  }
+}

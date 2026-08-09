@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2070698614075314266",
+    "created_at": "2026-06-27T03:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070705317416231168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561049612655308800",
+          "start": 0,
+          "username": "supersuger8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070705317416231168",
+    "in_reply_to_user_id": "1561049612655308800",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070705017225629730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@supersuger8 (ૢ˃ꌂ˂⁎)💗💗💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2070698614075314266",
+        "created_at": "2026-06-27T03:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070705317416231168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561049612655308800",
+              "start": 0,
+              "username": "supersuger8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070705317416231168",
+        "in_reply_to_user_id": "1561049612655308800",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070705017225629730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@supersuger8 (ૢ˃ꌂ˂⁎)💗💗💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561049612655308800",
+        "conversation_id": "2070698614075314266",
+        "created_at": "2026-06-27T03:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070705017225629730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070705017225629730",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070698614075314266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 好可爱耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 没回可以私我！然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 120,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 386
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T17:56:53.000Z",
+        "description": "02｜MtF🏳️‍⚧️｜小证含糖🍥｜od｜割手｜家长不管｜超级社恐｜努力上班攒手术钱｜永劫无间糕手",
+        "id": "1561049612655308800",
+        "location": "People's Republic of China",
+        "name": "supersuger🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042258680905949184/7LhBPCUW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 239,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "supersuger8",
+        "verified": true
+      }
+    ]
+  }
+}

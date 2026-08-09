@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066091943143378945"
+      ],
+      "media_source_tweet_id": [
+        "2066091946351935505"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2066145175420940518",
+    "created_at": "2026-06-14T13:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066145175420940518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2039398734962761728",
+          "start": 3,
+          "username": "EsterBrown38007"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kGtAqgjTN3",
+          "end": 47,
+          "expanded_url": "https://x.com/EsterBrown38007/status/2066091946351935505/photo/1",
+          "media_key": "3_2066091943143378945",
+          "start": 24,
+          "url": "https://t.co/kGtAqgjTN3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066145175420940518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066091946351935505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EsterBrown38007: 傻逼 https://t.co/kGtAqgjTN3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066091943143378945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw7rPhbkAE4Ire.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066091943143378945"
+          ],
+          "media_source_tweet_id": [
+            "2066091946351935505"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2066145175420940518",
+        "created_at": "2026-06-14T13:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066145175420940518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2039398734962761728",
+              "start": 3,
+              "username": "EsterBrown38007"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGtAqgjTN3",
+              "end": 47,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2066091946351935505/photo/1",
+              "media_key": "3_2066091943143378945",
+              "start": 24,
+              "url": "https://t.co/kGtAqgjTN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066145175420940518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066091946351935505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EsterBrown38007: 傻逼 https://t.co/kGtAqgjTN3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066091943143378945"
+          ]
+        },
+        "author_id": "2039398734962761728",
+        "conversation_id": "2066091946351935505",
+        "created_at": "2026-06-14T09:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066091946351935505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGtAqgjTN3",
+              "end": 26,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2066091946351935505/photo/1",
+              "media_key": "3_2066091943143378945",
+              "start": 3,
+              "url": "https://t.co/kGtAqgjTN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066091946351935505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4025,
+          "like_count": 82,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼 https://t.co/kGtAqgjTN3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 72,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 229
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09 / OD / 温良的精神病 / 友好一切 / 社交孤儿  死宅  网蛆 / 查成分回fo / 很温良且智商低  所以请不要攻击我😺",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 177,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 360
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

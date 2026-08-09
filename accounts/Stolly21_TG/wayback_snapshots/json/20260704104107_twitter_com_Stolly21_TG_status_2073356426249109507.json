@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2073075278382047671",
+    "created_at": "2026-07-04T10:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073356426249109507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2028748832973189120",
+          "start": 0,
+          "username": "D2r6hkpBzZ52541"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073356426249109507",
+    "in_reply_to_user_id": "2028748832973189120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073349654251716895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D2r6hkpBzZ52541 这个真的不多 我还觉得吃少了。吃不到量的话没有感觉哦Ծ ̮ Ծ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2073075278382047671",
+        "created_at": "2026-07-04T10:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073356426249109507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2028748832973189120",
+              "start": 0,
+              "username": "D2r6hkpBzZ52541"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073356426249109507",
+        "in_reply_to_user_id": "2028748832973189120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073349654251716895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D2r6hkpBzZ52541 这个真的不多 我还觉得吃少了。吃不到量的话没有感觉哦Ծ ̮ Ծ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028748832973189120",
+        "conversation_id": "2073075278382047671",
+        "created_at": "2026-07-04T10:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073349654251716895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073349654251716895",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073075278382047671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 多少？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 196,
+          "like_count": 1121,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 597
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T08:26:46.000Z",
+        "description": "我们正在做我们的前人从来没有做过的极其光荣伟大的事业。 我们的目的一定要达到。 我们的目的一定能够达到",
+        "id": "2028748832973189120",
+        "location": "北京中南海",
+        "name": "叶剑英",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073068462260502528/E6XtIf6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 158,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "D2r6hkpBzZ52541",
+        "verified": false
+      }
+    ]
+  }
+}

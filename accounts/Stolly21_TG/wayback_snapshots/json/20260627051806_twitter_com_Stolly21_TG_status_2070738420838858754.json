@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2070154427693216168",
+    "created_at": "2026-06-27T05:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070738420838858754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1888699775069179904",
+          "start": 0,
+          "username": "shengjunyun1337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070738420838858754",
+    "in_reply_to_user_id": "1888699775069179904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070720199083634775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengjunyun1337 私"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2070154427693216168",
+        "created_at": "2026-06-27T05:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070738420838858754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1888699775069179904",
+              "start": 0,
+              "username": "shengjunyun1337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070738420838858754",
+        "in_reply_to_user_id": "1888699775069179904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070720199083634775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengjunyun1337 私"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888699775069179904",
+        "conversation_id": "2070154427693216168",
+        "created_at": "2026-06-27T04:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070720199083634775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070720199083634775",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070154427693216168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 求网站😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 没回可以私我！然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 121,
+          "like_count": 653,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T21:21:41.000Z",
+        "description": "09丨🍥:2025.4丨游戏爱好者丨互fo",
+        "id": "1888699775069179904",
+        "location": "Hong Kong",
+        "name": "shengjunyun1337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019470481703989250/IVzWdL5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 194,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "shengjunyun1337",
+        "verified": true
+      }
+    ]
+  }
+}

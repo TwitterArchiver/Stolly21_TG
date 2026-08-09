@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2069303415520550958",
+    "created_at": "2026-06-23T06:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069303415520550958"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Stolly21_TG/st…",
+          "end": 175,
+          "expanded_url": "https://twitter.com/Stolly21_TG/status/2069083418705752343",
+          "start": 152,
+          "url": "https://t.co/VwBHC5GIoN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069303415520550958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069083418705752343",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实嗑了900mg普瑞还有25mg思诺思🤓☝️哎 我心情很好 看到的幻觉都很正常 甚至那些人都对我很友好 记得之前心情不好嗑药看到的幻都充满敌意 然后整体还有强迫的色彩。这个就很正常 而且很友好。我一直都是孤单的嗑药 然后这次出现了很多人 她们陪着我陪我聊天 夸我 然后帮我搬东西什么的 我觉得特别好！ https://t.co/VwBHC5GIoN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2069303415520550958",
+        "created_at": "2026-06-23T06:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069303415520550958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Stolly21_TG/st…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/Stolly21_TG/status/2069083418705752343",
+              "start": 152,
+              "url": "https://t.co/VwBHC5GIoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069303415520550958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069083418705752343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实嗑了900mg普瑞还有25mg思诺思🤓☝️哎 我心情很好 看到的幻觉都很正常 甚至那些人都对我很友好 记得之前心情不好嗑药看到的幻都充满敌意 然后整体还有强迫的色彩。这个就很正常 而且很友好。我一直都是孤单的嗑药 然后这次出现了很多人 她们陪着我陪我聊天 夸我 然后帮我搬东西什么的 我觉得特别好！ https://t.co/VwBHC5GIoN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2069083418705752343",
+        "created_at": "2026-06-22T15:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069083418705752343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069083418705752343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚尝试起始4t普瑞600mg＋2t巴氯芬20mg。每隔45min＋1t加巴300mg（加4次）。距服下普瑞1h后1.5t思诺思15mg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 81,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2079737387106906610",
+    "created_at": "2026-07-22T09:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T10:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079856830910701812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810704701744435200",
+          "start": 0,
+          "username": "worlds_end_fumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079856830910701812",
+    "in_reply_to_user_id": "1810704701744435200",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079850250613977302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@worlds_end_fumo &lt;3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2079737387106906610",
+        "created_at": "2026-07-22T09:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079856830910701812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810704701744435200",
+              "start": 0,
+              "username": "worlds_end_fumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079856830910701812",
+        "in_reply_to_user_id": "1810704701744435200",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079850250613977302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@worlds_end_fumo &lt;3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810704701744435200",
+        "conversation_id": "2079737387106906610",
+        "created_at": "2026-07-22T08:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079850250613977302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079850250613977302",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079737387106906610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 242,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 653
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T15:57:11.000Z",
+        "description": "第二次转生/🎈批发 /可代购任何能力以内的东西 \n联系https://t.co/Ve4lzmqf76\n原号\n@popcat1234566\n\n3.25/一支 12邮 9g\n互关寻回！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "popcat1234566"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/opodoge",
+                "end": 50,
+                "expanded_url": "http://t.me/opodoge",
+                "start": 27,
+                "url": "https://t.co/Ve4lzmqf76"
+              }
+            ]
+          }
+        },
+        "id": "1810704701744435200",
+        "location": "fumo island",
+        "name": "popcat1234566",
+        "pinned_tweet_id": "2063607798639030523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608187446812672/qwIQh47u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 299,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "worlds_end_fumo",
+        "verified": false
+      }
+    ]
+  }
+}

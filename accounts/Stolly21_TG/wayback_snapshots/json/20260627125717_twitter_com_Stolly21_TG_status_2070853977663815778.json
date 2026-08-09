@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2070690891451531643",
+    "created_at": "2026-06-27T12:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070853977663815778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1343061747914063872",
+          "start": 0,
+          "username": "MissVoltHere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070853977663815778",
+    "in_reply_to_user_id": "1343061747914063872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070852853577703743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MissVoltHere 就是dxm其实没必要控制CYP2D6 主要是阿片类是吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2070690891451531643",
+        "created_at": "2026-06-27T12:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070853977663815778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1343061747914063872",
+              "start": 0,
+              "username": "MissVoltHere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070853977663815778",
+        "in_reply_to_user_id": "1343061747914063872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070852853577703743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MissVoltHere 就是dxm其实没必要控制CYP2D6 主要是阿片类是吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343061747914063872",
+        "conversation_id": "2070690891451531643",
+        "created_at": "2026-06-27T12:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070852853577703743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070852853577703743",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070690891451531643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG DXM在体内由CYP2D6代谢为DXO，DXO负责起解离样作用，剩余的DXM在体内负责SRI样抗抑郁、拉升情绪作用，若使用安非他酮等强CYP2D6抑制剂，则DXO转化量成倍变小，DXM本体没什么解离，我们试过直接吃DXO，只有无意义的不带有体感情绪提升的解离，因此不能服用任何CYP2D6抑制剂，阿片类许多药也依赖CYP2D6。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 126,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-27T05:10:53.000Z",
+        "description": "https://t.co/0UtkpoizUJ 创立者\nhttps://t.co/vMDG93xXoS\nhttps://t.co/amyxWizAe9 永夜安港 初创成员\n璐璐Homemade 产品通知群 https://t.co/oXWzEmm7gV\n精神病学与药理学/有机化学/游戏开发/护肤品研发/MtX与MtF群体科普者\n咨询各类问题🚪88",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Luluv.wiki",
+                "end": 23,
+                "expanded_url": "http://Luluv.wiki",
+                "start": 0,
+                "url": "https://t.co/0UtkpoizUJ"
+              },
+              {
+                "display_url": "t.me/luluvwiki",
+                "end": 51,
+                "expanded_url": "http://t.me/luluvwiki",
+                "start": 28,
+                "url": "https://t.co/vMDG93xXoS"
+              },
+              {
+                "display_url": "pr80.net",
+                "end": 75,
+                "expanded_url": "http://pr80.net",
+                "start": 52,
+                "url": "https://t.co/amyxWizAe9"
+              },
+              {
+                "display_url": "t.me/+pL5uGghzOcM2N…",
+                "end": 126,
+                "expanded_url": "https://t.me/+pL5uGghzOcM2N2Vl",
+                "start": 103,
+                "url": "https://t.co/oXWzEmm7gV"
+              }
+            ]
+          }
+        },
+        "id": "1343061747914063872",
+        "location": "永夜安港",
+        "name": "璐璐 Luluv (永夜安港版)",
+        "pinned_tweet_id": "2070634617397490103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935558104092991488/QWhOH5Xc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 638,
+          "like_count": 5345,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "MissVoltHere",
+        "verified": false
+      }
+    ]
+  }
+}

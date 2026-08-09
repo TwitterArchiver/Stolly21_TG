@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062286714165678080"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2062570080282784152",
+    "created_at": "2026-06-04T16:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062570080282784152"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 4,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 23,
+          "start": 11,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 30,
+          "start": 24,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 38,
+          "start": 31,
+          "tag": "コンカフェ嬢"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zvHllN1EyM",
+          "end": 62,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2062570080282784152/video/1",
+          "media_key": "7_2062286714165678080",
+          "start": 39,
+          "url": "https://t.co/zvHllN1EyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062570080282784152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "❤️‍🩹#自撮り界隈 #病み垢さんと繋がりたい #病み垢女子 #コンカフェ嬢 https://t.co/zvHllN1EyM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2995,
+        "height": 1278,
+        "media_key": "7_2062286714165678080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062286714165678080/pu/img/eCO_-aUZWExhBe9i.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062286714165678080/pu/vid/avc1/320x596/6-tAITdRxfT3JCIO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062286714165678080/pu/vid/avc1/480x894/QTQ0Uv-bEzzcVhgt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062286714165678080/pu/vid/avc1/686x1278/-k8YbrXkGjkCK-Iu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062286714165678080/pu/pl/MTRAQCTyaNuf8u20.m3u8?tag=12"
+          }
+        ],
+        "width": 686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062286714165678080"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2062570080282784152",
+        "created_at": "2026-06-04T16:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062570080282784152"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 23,
+              "start": 11,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "コンカフェ嬢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zvHllN1EyM",
+              "end": 62,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2062570080282784152/video/1",
+              "media_key": "7_2062286714165678080",
+              "start": 39,
+              "url": "https://t.co/zvHllN1EyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062570080282784152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "❤️‍🩹#自撮り界隈 #病み垢さんと繋がりたい #病み垢女子 #コンカフェ嬢 https://t.co/zvHllN1EyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 45,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 120
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

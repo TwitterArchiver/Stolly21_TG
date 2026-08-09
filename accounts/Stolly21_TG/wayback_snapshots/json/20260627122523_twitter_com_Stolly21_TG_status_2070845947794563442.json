@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070845945458335744"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2070842771184009569",
+    "created_at": "2026-06-27T12:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070845947794563442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1908957018469085184",
+          "start": 0,
+          "username": "ml921127"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t6dD2dYF8i",
+          "end": 74,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2070845947794563442/photo/1",
+          "media_key": "3_2070845945458335744",
+          "start": 51,
+          "url": "https://t.co/t6dD2dYF8i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070845947794563442",
+    "in_reply_to_user_id": "1908957018469085184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070845360814072053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ml921127 特别诡异 又改名又改头像的 但是晶哥那个语气什么小姐姐、亲亲的 究竟能钓到谁😹😹 https://t.co/t6dD2dYF8i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070845945458335744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0famOaIAAvACQ.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070845945458335744"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2070842771184009569",
+        "created_at": "2026-06-27T12:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070845947794563442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1908957018469085184",
+              "start": 0,
+              "username": "ml921127"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6dD2dYF8i",
+              "end": 74,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2070845947794563442/photo/1",
+              "media_key": "3_2070845945458335744",
+              "start": 51,
+              "url": "https://t.co/t6dD2dYF8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070845947794563442",
+        "in_reply_to_user_id": "1908957018469085184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070845360814072053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ml921127 特别诡异 又改名又改头像的 但是晶哥那个语气什么小姐姐、亲亲的 究竟能钓到谁😹😹 https://t.co/t6dD2dYF8i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908957018469085184",
+        "conversation_id": "2070842771184009569",
+        "created_at": "2026-06-27T12:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070845360814072053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070845360814072053",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070842771184009569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 哈哈哈哈哈哈哈哈哈哈哈哈哈，笑的我快难受死了，我不知道这个人如到底想干什么，但是真的诡异死了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 125,
+          "like_count": 682,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 407
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T18:56:49.000Z",
+        "description": "药物会带我们逃离这个世界，要和Archer一起吗这里很安全^^\n非同圈私信闲聊请口令188😂关注我的我会查成分。你在看我的同时我也在看你。提问箱https://t.co/BguYWWr14J",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ar96376",
+                "end": 95,
+                "expanded_url": "https://ngl.link/ar96376",
+                "start": 72,
+                "url": "https://t.co/BguYWWr14J"
+              }
+            ]
+          }
+        },
+        "id": "1908957018469085184",
+        "name": "Archer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070820490600407040/KnVuGfp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 38,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "ml921127",
+        "verified": false
+      }
+    ]
+  }
+}

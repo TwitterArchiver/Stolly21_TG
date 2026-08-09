@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2057527678463508563",
+    "created_at": "2026-05-21T18:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057527678463508563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1649673207878938624",
+          "start": 3,
+          "username": "zhuaxiu0917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057527678463508563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035727575440593026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhuaxiu0917: 嗯，你就继续逛你那货柜，逛你的黑X 账号Telegram飞机群，搜刮自己吃过或者没吃过的毒品致幻剂解离剂抑制剂兴奋剂，问毒枭货物付款几g多少钱在哪埋包，关注国家毒品管列名单有没有管列到自己喜欢的策划药，你每天就吃你那阿片类，父母和精神病院医生一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2057527678463508563",
+        "created_at": "2026-05-21T18:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057527678463508563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1649673207878938624",
+              "start": 3,
+              "username": "zhuaxiu0917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057527678463508563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035727575440593026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhuaxiu0917: 嗯，你就继续逛你那货柜，逛你的黑X 账号Telegram飞机群，搜刮自己吃过或者没吃过的毒品致幻剂解离剂抑制剂兴奋剂，问毒枭货物付款几g多少钱在哪埋包，关注国家毒品管列名单有没有管列到自己喜欢的策划药，你每天就吃你那阿片类，父母和精神病院医生一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649673207878938624",
+        "conversation_id": "2035727575440593026",
+        "created_at": "2026-03-22T14:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035727575440593026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035727575440593026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 452,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，你就继续逛你那货柜，逛你的黑X 账号Telegram飞机群，搜刮自己吃过或者没吃过的毒品致幻剂解离剂抑制剂兴奋剂，问毒枭货物付款几g多少钱在哪埋包，关注国家毒品管列名单有没有管列到自己喜欢的策划药，你每天就吃你那阿片类，父母和精神病院医生一点都不辛苦，一点都不累！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Chengdu, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  104.06667,
+                  30.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Chengdu",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "滥用药物者、进食障碍战士、162cm38kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。",
+        "id": "1781745564738281472",
+        "location": "成都",
+        "name": "枢纽Toky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048920886267535360/FoCCE5XG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 12,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 33
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-22T07:15:29.000Z",
+        "description": "一位爱国爱党的中年妇人",
+        "id": "1649673207878938624",
+        "name": "全世界第一喜欢包蜜🍯💓（已绝经）",
+        "pinned_tweet_id": "2009429427663589658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009696367384637441/cK_1JA0f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 220,
+          "like_count": 17080,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 703
+        },
+        "username": "zhuaxiu0917",
+        "verified": false
+      }
+    ]
+  }
+}

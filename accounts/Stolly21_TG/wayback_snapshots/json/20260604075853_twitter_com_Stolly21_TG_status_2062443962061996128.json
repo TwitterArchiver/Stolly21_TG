@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2062202036167524720",
+    "created_at": "2026-06-04T07:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062443962061996128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830321903522942976",
+          "start": 0,
+          "username": "miomio1560881"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062443962061996128",
+    "in_reply_to_user_id": "1830321903522942976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062202036167524720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miomio1560881 半衰期我一般睡过去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2062202036167524720",
+        "created_at": "2026-06-04T07:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062443962061996128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830321903522942976",
+              "start": 0,
+              "username": "miomio1560881"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062443962061996128",
+        "in_reply_to_user_id": "1830321903522942976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062202036167524720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miomio1560881 半衰期我一般睡过去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830321903522942976",
+        "conversation_id": "2062202036167524720",
+        "created_at": "2026-06-03T15:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062202036167524720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062202036167524720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 606,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不高兴……半衰期还没过好难受 我再也不吃这个傻逼药了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 44,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 111
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T19:08:50.000Z",
+        "description": "请入我🚪互转互粉随时欢迎！\n52/88/152/252/520/1314入门不退不要欺负我！ \n喜欢💊 纹身 穿孔 小动物 尼古丁 余额为0️⃣",
+        "id": "1830321903522942976",
+        "location": "奥比岛",
+        "name": "neko",
+        "pinned_tweet_id": "2050908198711026020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031794264976605190/YG02D00I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 81,
+          "like_count": 1068,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 531
+        },
+        "username": "miomio1560881",
+        "verified": false
+      }
+    ]
+  }
+}

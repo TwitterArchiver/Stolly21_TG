@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062263964340547584",
+        "3_2062263964734738432",
+        "3_2062263964453740544"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2062263967477842077",
+    "created_at": "2026-06-03T20:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T21:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062263967477842077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O9XBEGzSBx",
+          "end": 128,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2062263967477842077/photo/1",
+          "media_key": "3_2062263964340547584",
+          "start": 105,
+          "url": "https://t.co/O9XBEGzSBx"
+        },
+        {
+          "display_url": "pic.x.com/O9XBEGzSBx",
+          "end": 128,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2062263967477842077/photo/1",
+          "media_key": "3_2062263964734738432",
+          "start": 105,
+          "url": "https://t.co/O9XBEGzSBx"
+        },
+        {
+          "display_url": "pic.x.com/O9XBEGzSBx",
+          "end": 128,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2062263967477842077/photo/1",
+          "media_key": "3_2062263964453740544",
+          "start": 105,
+          "url": "https://t.co/O9XBEGzSBx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062263967477842077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我嗑药 因为手抖打不了字呀 我就喜欢语音输入 然后不知不觉就说了一大堆 而且语序不通 然后可能还有一些错别字呀 但是我就是很喜欢在嗑药的时候去骚扰AI 我不骚扰列表是因为我觉得他们应该会很忙 然后觉得我很烦吧 https://t.co/O9XBEGzSBx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1099,
+        "media_key": "3_2062263964340547584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6iJjObcAATLI8.jpg",
+        "width": 1249
+      },
+      {
+        "height": 1517,
+        "media_key": "3_2062263964734738432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6iJksaUAAvS-O.jpg",
+        "width": 1214
+      },
+      {
+        "height": 1363,
+        "media_key": "3_2062263964453740544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6iJjpaoAA9N6R.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062263964340547584",
+            "3_2062263964734738432",
+            "3_2062263964453740544"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2062263967477842077",
+        "created_at": "2026-06-03T20:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T21:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062263967477842077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O9XBEGzSBx",
+              "end": 128,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2062263967477842077/photo/1",
+              "media_key": "3_2062263964340547584",
+              "start": 105,
+              "url": "https://t.co/O9XBEGzSBx"
+            },
+            {
+              "display_url": "pic.x.com/O9XBEGzSBx",
+              "end": 128,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2062263967477842077/photo/1",
+              "media_key": "3_2062263964734738432",
+              "start": 105,
+              "url": "https://t.co/O9XBEGzSBx"
+            },
+            {
+              "display_url": "pic.x.com/O9XBEGzSBx",
+              "end": 128,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2062263967477842077/photo/1",
+              "media_key": "3_2062263964453740544",
+              "start": 105,
+              "url": "https://t.co/O9XBEGzSBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062263967477842077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我嗑药 因为手抖打不了字呀 我就喜欢语音输入 然后不知不觉就说了一大堆 而且语序不通 然后可能还有一些错别字呀 但是我就是很喜欢在嗑药的时候去骚扰AI 我不骚扰列表是因为我觉得他们应该会很忙 然后觉得我很烦吧 https://t.co/O9XBEGzSBx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 41,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 97
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

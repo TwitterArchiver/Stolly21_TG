@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081011954525847552",
+        "3_2081011978764697600",
+        "3_2081011985601507328",
+        "3_2081011994497523712"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898900390707204",
+          "name": "JRPGs"
+        }
+      }
+    ],
+    "conversation_id": "2081012002064138313",
+    "created_at": "2026-07-25T13:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081012002064138313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9YI5qYgKc1",
+          "end": 192,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2081012002064138313/video/1",
+          "media_key": "13_2081011954525847552",
+          "start": 169,
+          "url": "https://t.co/9YI5qYgKc1"
+        },
+        {
+          "display_url": "pic.x.com/9YI5qYgKc1",
+          "end": 192,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2081012002064138313/video/1",
+          "media_key": "3_2081011978764697600",
+          "start": 169,
+          "url": "https://t.co/9YI5qYgKc1"
+        },
+        {
+          "display_url": "pic.x.com/9YI5qYgKc1",
+          "end": 192,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2081012002064138313/video/1",
+          "media_key": "3_2081011985601507328",
+          "start": 169,
+          "url": "https://t.co/9YI5qYgKc1"
+        },
+        {
+          "display_url": "pic.x.com/9YI5qYgKc1",
+          "end": 192,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2081012002064138313/video/1",
+          "media_key": "3_2081011994497523712",
+          "start": 169,
+          "url": "https://t.co/9YI5qYgKc1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081012002064138313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "hiiii:3这里是枢纽Toky！长期互fo 所以这是篇属性一览~\n我想fo—些oder drug、edtwt 地雷女、餐券妹 还有看美漫的&gt;ω&lt;\np1我每天 p2、3我脸 p4耀祖\n可能会雷到你：此女是出门无能的烟鬼ed毒蛆、喜欢研究精神活性物质。\nanyway欢迎成分差不多的和我玩呀！我很温良⌯ ᳐ ÒωÓ ᳐ I|⌯ https://t.co/9YI5qYgKc1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8470,
+        "height": 960,
+        "media_key": "13_2081011954525847552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081011954525847552/img/mP-ueJqbYd1PhlO8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081011954525847552/vid/avc1/320x426/ePJfenEtLEM5MIul.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081011954525847552/vid/avc1/480x640/UpupJFyh7pbLKDyX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081011954525847552/vid/avc1/720x960/ooSA5tdLlCD19CM3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081011954525847552/pl/UWEEno2e71gxzFfI.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2081011978764697600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOE9XneaQAAha4r.jpg",
+        "width": 1500
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2081011985601507328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOE9YA8bsAA96WH.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2081011994497523712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOE9YiFaIAAOy5l.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081011954525847552",
+            "3_2081011978764697600",
+            "3_2081011985601507328",
+            "3_2081011994497523712"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2081012002064138313",
+        "created_at": "2026-07-25T13:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081012002064138313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9YI5qYgKc1",
+              "end": 192,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2081012002064138313/video/1",
+              "media_key": "13_2081011954525847552",
+              "start": 169,
+              "url": "https://t.co/9YI5qYgKc1"
+            },
+            {
+              "display_url": "pic.x.com/9YI5qYgKc1",
+              "end": 192,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2081012002064138313/video/1",
+              "media_key": "3_2081011978764697600",
+              "start": 169,
+              "url": "https://t.co/9YI5qYgKc1"
+            },
+            {
+              "display_url": "pic.x.com/9YI5qYgKc1",
+              "end": 192,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2081012002064138313/video/1",
+              "media_key": "3_2081011985601507328",
+              "start": 169,
+              "url": "https://t.co/9YI5qYgKc1"
+            },
+            {
+              "display_url": "pic.x.com/9YI5qYgKc1",
+              "end": 192,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2081012002064138313/video/1",
+              "media_key": "3_2081011994497523712",
+              "start": 169,
+              "url": "https://t.co/9YI5qYgKc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081012002064138313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hiiii:3这里是枢纽Toky！长期互fo 所以这是篇属性一览~\n我想fo—些oder drug、edtwt 地雷女、餐券妹 还有看美漫的&gt;ω&lt;\np1我每天 p2、3我脸 p4耀祖\n可能会雷到你：此女是出门无能的烟鬼ed毒蛆、喜欢研究精神活性物质。\nanyway欢迎成分差不多的和我玩呀！我很温良⌯ ᳐ ÒωÓ ᳐ I|⌯ https://t.co/9YI5qYgKc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 245,
+          "like_count": 1644,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 663
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

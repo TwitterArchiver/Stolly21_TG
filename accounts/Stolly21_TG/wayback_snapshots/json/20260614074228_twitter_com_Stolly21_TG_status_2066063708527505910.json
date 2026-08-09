@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066063705729822720"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2066063708527505910",
+    "created_at": "2026-06-14T07:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066063708527505910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pUngE2mZaY",
+          "end": 30,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2066063708527505910/photo/1",
+          "media_key": "3_2066063705729822720",
+          "start": 7,
+          "url": "https://t.co/pUngE2mZaY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066063708527505910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ed妹赢了。 https://t.co/pUngE2mZaY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2066063705729822720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwh_m9acAAhlHN.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066063705729822720"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2066063708527505910",
+        "created_at": "2026-06-14T07:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066063708527505910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pUngE2mZaY",
+              "end": 30,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2066063708527505910/photo/1",
+              "media_key": "3_2066063705729822720",
+              "start": 7,
+              "url": "https://t.co/pUngE2mZaY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066063708527505910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ed妹赢了。 https://t.co/pUngE2mZaY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 72,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 226
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

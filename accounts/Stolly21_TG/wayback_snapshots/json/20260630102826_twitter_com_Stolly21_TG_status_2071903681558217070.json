@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2071903681558217070",
+    "created_at": "2026-06-30T10:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071903681558217070"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071903681558217070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我以前抽烟 觉得不会抽很多啊 而且烟盒很漂亮我就攒着 后来越抽越多 我就买了一个好大好大的箱子 再后来箱子也装不下溢出来了好多。。药盒也是。刚好最近搬家打算全丢掉了吧！断舍离有点那个呜呜呜。每样留一个就行。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2071903681558217070",
+        "created_at": "2026-06-30T10:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071903681558217070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071903681558217070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前抽烟 觉得不会抽很多啊 而且烟盒很漂亮我就攒着 后来越抽越多 我就买了一个好大好大的箱子 再后来箱子也装不下溢出来了好多。。药盒也是。刚好最近搬家打算全丢掉了吧！断舍离有点那个呜呜呜。每样留一个就行。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 159,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 500
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

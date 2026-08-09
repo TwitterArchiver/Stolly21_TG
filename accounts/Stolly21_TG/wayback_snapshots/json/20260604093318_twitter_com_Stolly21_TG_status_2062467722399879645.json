@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2062238617515528701",
+    "created_at": "2026-06-04T09:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T10:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062467722399879645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1877886557316689920",
+          "start": 0,
+          "username": "L77TuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062467722399879645",
+    "in_reply_to_user_id": "1877886557316689920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062455099394552267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L77TuT 我也 然后凌晨分批送服给我爽死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2062238617515528701",
+        "created_at": "2026-06-04T09:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062467722399879645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1877886557316689920",
+              "start": 0,
+              "username": "L77TuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062467722399879645",
+        "in_reply_to_user_id": "1877886557316689920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062455099394552267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L77TuT 我也 然后凌晨分批送服给我爽死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877886557316689920",
+        "conversation_id": "2062238617515528701",
+        "created_at": "2026-06-04T08:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062455099394552267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062455099394552267",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062238617515528701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 分批送服效果最大😝之前不知道一次送服12t的效果还没有分批送服10t效果好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 44,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 114
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T01:13:55.000Z",
+        "description": "",
+        "id": "1877886557316689920",
+        "name": "77",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062018906320162816/1TP6Fqct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 91,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 123
+        },
+        "username": "L77TuT",
+        "verified": false
+      }
+    ]
+  }
+}

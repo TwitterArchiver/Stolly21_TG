@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2079277989305708752",
+    "created_at": "2026-07-21T17:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079614183512113531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900413813197070336",
+          "start": 0,
+          "username": "HuaWu73858"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079614183512113531",
+    "in_reply_to_user_id": "1900413813197070336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079494274027057517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuaWu73858 靠。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2079277989305708752",
+        "created_at": "2026-07-21T17:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079614183512113531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900413813197070336",
+              "start": 0,
+              "username": "HuaWu73858"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079614183512113531",
+        "in_reply_to_user_id": "1900413813197070336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079494274027057517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuaWu73858 靠。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900413813197070336",
+        "conversation_id": "2079277989305708752",
+        "created_at": "2026-07-21T09:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079494274027057517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079494274027057517",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079277989305708752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 趣多多实在是无趣，SNRI弱阿片带来的是抗抑郁效果，基本不会欣快吧？o多了还容易癫痫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 243,
+          "like_count": 1560,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 645
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T05:09:05.000Z",
+        "description": "18↑ oder 簡體中文🇨🇳/繁體中文🇹🇼 OK\nproject moon享受者,金智勳你媽死了\n世界計畫,啟動！",
+        "id": "1900413813197070336",
+        "location": "邁克·華萊士家裡",
+        "name": "世界計畫你放過我吧🇹🇼🏴‍☠️",
+        "pinned_tweet_id": "2073432048493080710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042811161364873216/4StNBH4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 41,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "HuaWu73858",
+        "verified": false
+      }
+    ]
+  }
+}

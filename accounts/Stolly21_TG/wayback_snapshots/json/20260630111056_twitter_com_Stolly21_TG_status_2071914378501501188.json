@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2071906807833121082",
+    "created_at": "2026-06-30T11:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071914378501501188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900413813197070336",
+          "start": 0,
+          "username": "HuaWu73858"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071914378501501188",
+    "in_reply_to_user_id": "1900413813197070336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071913399252926564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuaWu73858 必须举报呀！因为他要od呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2071906807833121082",
+        "created_at": "2026-06-30T11:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071914378501501188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900413813197070336",
+              "start": 0,
+              "username": "HuaWu73858"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071914378501501188",
+        "in_reply_to_user_id": "1900413813197070336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071913399252926564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuaWu73858 必须举报呀！因为他要od呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900413813197070336",
+        "conversation_id": "2071906807833121082",
+        "created_at": "2026-06-30T11:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071913399252926564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071913399252926564",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071906807833121082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 向辣辣警官举报"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 160,
+          "like_count": 882,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 504
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T05:09:05.000Z",
+        "description": "18↓ oder 簡體中文🇨🇳/繁體中文🇹🇼 OK\nproject moon享受者,金智勳你媽死了\n世界計畫,啟動！",
+        "id": "1900413813197070336",
+        "location": "邁克·華萊士家裡",
+        "name": "世界計畫你放過我吧🇹🇼🏴‍☠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042811161364873216/4StNBH4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 30,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "HuaWu73858",
+        "verified": false
+      }
+    ]
+  }
+}

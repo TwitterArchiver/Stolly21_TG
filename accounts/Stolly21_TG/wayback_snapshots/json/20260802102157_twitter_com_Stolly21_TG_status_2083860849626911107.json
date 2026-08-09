@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083860818899464192",
+        "3_2083860835378909184"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083860849626911107",
+    "created_at": "2026-08-02T10:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083860849626911107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/00KU0WYwNH",
+          "end": 32,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2083860849626911107/photo/1",
+          "media_key": "3_2083860818899464192",
+          "start": 9,
+          "url": "https://t.co/00KU0WYwNH"
+        },
+        {
+          "display_url": "pic.x.com/00KU0WYwNH",
+          "end": 32,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2083860849626911107/photo/1",
+          "media_key": "3_2083860835378909184",
+          "start": 9,
+          "url": "https://t.co/00KU0WYwNH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083860849626911107",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "6重奏😡😡🤤🤤🤤 https://t.co/00KU0WYwNH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083860818899464192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtcX7_bcAAx06O.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2083860835378909184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtcY5Yb0AAWjWQ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083860818899464192",
+            "3_2083860835378909184"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083860849626911107",
+        "created_at": "2026-08-02T10:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083860849626911107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/00KU0WYwNH",
+              "end": 32,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2083860849626911107/photo/1",
+              "media_key": "3_2083860818899464192",
+              "start": 9,
+              "url": "https://t.co/00KU0WYwNH"
+            },
+            {
+              "display_url": "pic.x.com/00KU0WYwNH",
+              "end": 32,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2083860849626911107/photo/1",
+              "media_key": "3_2083860835378909184",
+              "start": 9,
+              "url": "https://t.co/00KU0WYwNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083860849626911107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6重奏😡😡🤤🤤🤤 https://t.co/00KU0WYwNH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、鼻吸130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2081013860522148111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 265,
+          "like_count": 1785,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 664
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

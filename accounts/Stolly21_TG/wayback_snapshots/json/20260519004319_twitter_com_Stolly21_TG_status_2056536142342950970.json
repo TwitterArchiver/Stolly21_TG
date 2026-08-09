@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2049140999914500542",
+    "created_at": "2026-05-19T00:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T01:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056536142342950970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753723632046731264",
+          "start": 0,
+          "username": "FAN19971202"
+        },
+        {
+          "end": 25,
+          "id": "2038840474275057664",
+          "start": 13,
+          "username": "Evenlyfourz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056536142342950970",
+    "in_reply_to_user_id": "1753723632046731264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049202307288695147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FAN19971202 @Evenlyfourz 什么价格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2049140999914500542",
+        "created_at": "2026-05-19T00:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056536142342950970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753723632046731264",
+              "start": 0,
+              "username": "FAN19971202"
+            },
+            {
+              "end": 25,
+              "id": "2038840474275057664",
+              "start": 13,
+              "username": "Evenlyfourz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056536142342950970",
+        "in_reply_to_user_id": "1753723632046731264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049202307288695147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FAN19971202 @Evenlyfourz 什么价格"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753723632046731264",
+        "conversation_id": "2049140999914500542",
+        "created_at": "2026-04-28T19:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T20:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049202307288695147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038840474275057664",
+              "start": 0,
+              "username": "Evenlyfourz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049202307288695147",
+        "in_reply_to_user_id": "2038840474275057664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049140999914500542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evenlyfourz 我有普瑞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Chengdu, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  104.06667,
+                  30.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Chengdu",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "滥用药物者、进食障碍战士、162cm38kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。",
+        "id": "1781745564738281472",
+        "location": "成都",
+        "name": "枢纽Toky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048920886267535360/FoCCE5XG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 9,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 27
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T10:14:46.000Z",
+        "description": "",
+        "id": "1753723632046731264",
+        "location": "杭州",
+        "name": "白鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928417317240909824/x2Rl4_Cy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 15,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "FAN19971202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T04:48:25.000Z",
+        "description": "遏制这种大王在此",
+        "id": "2038840474275057664",
+        "name": "Evenlyfourz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038841086798626816/6SV6QFPn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Evenlyfourz",
+        "verified": false
+      }
+    ]
+  }
+}

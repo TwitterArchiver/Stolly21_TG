@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2064218714405527945",
+    "created_at": "2026-06-09T07:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064246413333242265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967257406129504256",
+          "start": 0,
+          "username": "Zdu1279757"
+        },
+        {
+          "end": 28,
+          "id": "1919465517829783552",
+          "start": 12,
+          "username": "Nonentity_xxx17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064246413333242265",
+    "in_reply_to_user_id": "1967257406129504256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064245125258301500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zdu1279757 @Nonentity_xxx17 我就说 睡不着 睡前想东想西的 之前吃过劳拉 觉得太苦了 阿普唑仑没啥用 之前吃过一次思诺思 觉得那个可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2064218714405527945",
+        "created_at": "2026-06-09T07:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064246413333242265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967257406129504256",
+              "start": 0,
+              "username": "Zdu1279757"
+            },
+            {
+              "end": 28,
+              "id": "1919465517829783552",
+              "start": 12,
+              "username": "Nonentity_xxx17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064246413333242265",
+        "in_reply_to_user_id": "1967257406129504256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064245125258301500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zdu1279757 @Nonentity_xxx17 我就说 睡不着 睡前想东想西的 之前吃过劳拉 觉得太苦了 阿普唑仑没啥用 之前吃过一次思诺思 觉得那个可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967257406129504256",
+        "conversation_id": "2064218714405527945",
+        "created_at": "2026-06-09T07:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064245125258301500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919465517829783552",
+              "start": 0,
+              "username": "Nonentity_xxx17"
+            },
+            {
+              "end": 29,
+              "id": "1781745564738281472",
+              "start": 17,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064245125258301500",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064244653856305551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nonentity_xxx17 @Stolly21_TG 我去，这下不得不去医院点个菜试试了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 56,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 154
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T16:01:43.000Z",
+        "description": "不管这个世界上多少坏人讨厌我 攻击我 不爱我我依旧不语 就萌萌的躺在这里 🚪52",
+        "id": "1967257406129504256",
+        "name": "iukio",
+        "pinned_tweet_id": "2060323322676863455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060324836292059136/KMYYNM1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 36,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 251
+        },
+        "username": "Zdu1279757",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 五年前的我@Xxx_kkkl\n双相I型/低能量/欣赏躯体/魔魔魔魔魔\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xxx_kkkl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 73,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 50,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 39,
+          "like_count": 1146,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 361
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}

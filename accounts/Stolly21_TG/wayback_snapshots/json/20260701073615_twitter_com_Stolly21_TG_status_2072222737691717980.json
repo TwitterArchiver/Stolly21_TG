@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2071818409491522022",
+    "created_at": "2026-07-01T07:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072222737691717980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865480322978349056",
+          "start": 0,
+          "username": "CharaG51669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072222737691717980",
+    "in_reply_to_user_id": "1865480322978349056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072204504666386756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharaG51669 awwww女孩我喜欢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2071818409491522022",
+        "created_at": "2026-07-01T07:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072222737691717980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865480322978349056",
+              "start": 0,
+              "username": "CharaG51669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072222737691717980",
+        "in_reply_to_user_id": "1865480322978349056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072204504666386756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharaG51669 awwww女孩我喜欢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865480322978349056",
+        "conversation_id": "2071818409491522022",
+        "created_at": "2026-07-01T06:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072204504666386756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072204504666386756",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071818409491522022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 女孩你好美…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 167,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 516
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T19:36:09.000Z",
+        "description": "06/INFP/抑郁/焦虑 /有老公/od/割手/抽烟/互fo请私信💖/欢迎私信/叫我小侑就好/现居深圳，欢迎小萌物们找我玩！\n提问箱：https://t.co/2km1uF0lIH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/onoderayuu",
+                "end": 91,
+                "expanded_url": "https://ngl.link/onoderayuu",
+                "start": 68,
+                "url": "https://t.co/2km1uF0lIH"
+              }
+            ]
+          }
+        },
+        "id": "1865480322978349056",
+        "name": "OnoderaYuu（侑）",
+        "pinned_tweet_id": "2070781014423769469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865662167120564224/GiHXnwwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 216,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 545
+        },
+        "url": "",
+        "username": "CharaG51669",
+        "verified": false
+      }
+    ]
+  }
+}

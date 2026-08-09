@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2074002402613858450",
+    "created_at": "2026-07-06T06:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T07:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074019782530343108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1727107763447410688",
+          "start": 0,
+          "username": "a1ter_ego_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074019782530343108",
+    "in_reply_to_user_id": "1727107763447410688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074018381381124312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1ter_ego_01 阿片类 止痛欣快吧^ω^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2074002402613858450",
+        "created_at": "2026-07-06T06:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074019782530343108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1727107763447410688",
+              "start": 0,
+              "username": "a1ter_ego_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074019782530343108",
+        "in_reply_to_user_id": "1727107763447410688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074018381381124312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1ter_ego_01 阿片类 止痛欣快吧^ω^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727107763447410688",
+        "conversation_id": "2074002402613858450",
+        "created_at": "2026-07-06T06:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074018381381124312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074018381381124312",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074002402613858450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 这个什么效果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 204,
+          "like_count": 1241,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 634
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T23:33:17.000Z",
+        "description": "以下是你可能关心的刻板印象：｜网络巨人｜精神状态不稳定｜社交能力低下｜概率学博士｜直男｜高功能抑郁症｜神✝️｜电波系｜精神系｜精神外科医生｜",
+        "id": "1727107763447410688",
+        "location": "日本",
+        "name": "エイム",
+        "pinned_tweet_id": "2073051328507785492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071293806344048640/KMr1GGPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 29,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 652
+        },
+        "url": "",
+        "username": "a1ter_ego_01",
+        "verified": false
+      }
+    ]
+  }
+}

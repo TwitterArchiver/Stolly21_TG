@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074571354507198464",
+        "3_2074571355501268992"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2074571358831616312",
+    "created_at": "2026-07-07T19:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T20:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074571358831616312"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ul9pqwig1X",
+          "end": 49,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2074571358831616312/photo/1",
+          "media_key": "3_2074571354507198464",
+          "start": 26,
+          "url": "https://t.co/Ul9pqwig1X"
+        },
+        {
+          "display_url": "pic.x.com/Ul9pqwig1X",
+          "end": 49,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2074571358831616312/photo/1",
+          "media_key": "3_2074571355501268992",
+          "start": 26,
+          "url": "https://t.co/Ul9pqwig1X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074571358831616312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我猜你是那种还没有中奖就迫不及待挑选装备的人⩌⩊⩌ https://t.co/Ul9pqwig1X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2074571354507198464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpbp8aaQAA750i.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3168,
+        "media_key": "3_2074571355501268992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpbqAHakAAPUdJ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074571354507198464",
+            "3_2074571355501268992"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2074571358831616312",
+        "created_at": "2026-07-07T19:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074571358831616312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ul9pqwig1X",
+              "end": 49,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2074571358831616312/photo/1",
+              "media_key": "3_2074571354507198464",
+              "start": 26,
+              "url": "https://t.co/Ul9pqwig1X"
+            },
+            {
+              "display_url": "pic.x.com/Ul9pqwig1X",
+              "end": 49,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2074571358831616312/photo/1",
+              "media_key": "3_2074571355501268992",
+              "start": 26,
+              "url": "https://t.co/Ul9pqwig1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074571358831616312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我猜你是那种还没有中奖就迫不及待挑选装备的人⩌⩊⩌ https://t.co/Ul9pqwig1X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 227,
+          "like_count": 1338,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 670
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

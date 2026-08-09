@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2069440135582884104",
+    "created_at": "2026-06-23T21:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T22:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069533311534510083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493847901541310467",
+          "start": 0,
+          "username": "bone7893"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069533311534510083",
+    "in_reply_to_user_id": "1493847901541310467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069519318388527398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bone7893 ym回家🥹🥹🥹🤤🤤🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2069440135582884104",
+        "created_at": "2026-06-23T21:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T22:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069533311534510083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493847901541310467",
+              "start": 0,
+              "username": "bone7893"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069533311534510083",
+        "in_reply_to_user_id": "1493847901541310467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069519318388527398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bone7893 ym回家🥹🥹🥹🤤🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493847901541310467",
+        "conversation_id": "2069440135582884104",
+        "created_at": "2026-06-23T20:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069519318388527398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069519318388527398",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069440135582884104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG dxm真的太舒服了 不伤身体还好爽… 把我的右美沙芬愈美片还给我吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 84,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 346
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-16T07:21:26.000Z",
+        "description": "梦想是吃饱饭",
+        "id": "1493847901541310467",
+        "name": "全方位幻想",
+        "pinned_tweet_id": "1929285580543885464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066511305436196864/5dGiC86E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 79,
+          "like_count": 54,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "bone7893",
+        "verified": false
+      }
+    ]
+  }
+}

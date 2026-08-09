@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2070154427693216168",
+    "created_at": "2026-06-26T12:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070485287130829207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2004802306873982977",
+          "start": 0,
+          "username": "Len10x0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070485287130829207",
+    "in_reply_to_user_id": "2004802306873982977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070484953503285472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Len10x0 私"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2070154427693216168",
+        "created_at": "2026-06-26T12:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070485287130829207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004802306873982977",
+              "start": 0,
+              "username": "Len10x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070485287130829207",
+        "in_reply_to_user_id": "2004802306873982977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070484953503285472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Len10x0 私"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004802306873982977",
+        "conversation_id": "2070154427693216168",
+        "created_at": "2026-06-26T12:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070484953503285472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070484953503285472",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070154427693216168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 问问网站。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 113,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T06:31:44.000Z",
+        "description": "泛性恋偏le\n#日系#餐券#地雷系#od\n双相患者2011.8.7\n同类互fo 可以叫我深晟或者小冷",
+        "id": "2004802306873982977",
+        "location": "🚪52/88/188上不封顶不退",
+        "name": "冷幻觉（恶俗版",
+        "pinned_tweet_id": "2063951403366928689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020745173807026176/0nQdCQ8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 236,
+          "like_count": 1595,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 1936
+        },
+        "url": "",
+        "username": "Len10x0",
+        "verified": false
+      }
+    ]
+  }
+}

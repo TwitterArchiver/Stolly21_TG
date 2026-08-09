@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2073735513983611355",
+    "created_at": "2026-07-05T12:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073747154871742757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1895084164418088960",
+          "start": 0,
+          "username": "codecoco002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073747154871742757",
+    "in_reply_to_user_id": "1895084164418088960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073745095816593711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codecoco002 话说也是哦。我有时也分不清自己是想娱乐用还是逃避现实用🙂‍↔️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2073735513983611355",
+        "created_at": "2026-07-05T12:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073747154871742757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1895084164418088960",
+              "start": 0,
+              "username": "codecoco002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073747154871742757",
+        "in_reply_to_user_id": "1895084164418088960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073745095816593711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codecoco002 话说也是哦。我有时也分不清自己是想娱乐用还是逃避现实用🙂‍↔️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895084164418088960",
+        "conversation_id": "2073735513983611355",
+        "created_at": "2026-07-05T12:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073745095816593711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073745095816593711",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073735513983611355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 連續一年o了\n根本不在意 反正這樣可以逃離現實一陣子 要是哪天o死了就那樣吧\n剛好也可以用這方法自殘呢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 200,
+          "like_count": 1191,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 613
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T12:11:02.000Z",
+        "description": "OD／負面／自傷／憂鬱症／多重人格／邊緣型人格障礙／解離／沉迷二次元\n最喜歡超天醬了啾♡絕對絕對要成為這個時代的超天醬 ! 想要許願永遠生活在夢裡，最討厭現實世界\n拯救所有厭惡現實之人的網路天使此刻降臨✝️只需要看著我就好了呦\n✝️一起升天✝️",
+        "id": "1895084164418088960",
+        "name": "✝️糖糖✝️あめちゃん",
+        "pinned_tweet_id": "2039074952796856651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046116610306662400/1S5IdjJA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 31,
+          "like_count": 1262,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 327
+        },
+        "url": "",
+        "username": "codecoco002",
+        "verified": false
+      }
+    ]
+  }
+}

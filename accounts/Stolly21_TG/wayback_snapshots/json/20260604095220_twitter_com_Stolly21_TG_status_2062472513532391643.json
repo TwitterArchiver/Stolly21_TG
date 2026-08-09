@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2062462201550733657",
+    "created_at": "2026-06-04T09:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T10:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062472513532391643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1554387909587136512",
+          "start": 0,
+          "username": "Gag_Order_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062472513532391643",
+    "in_reply_to_user_id": "1554387909587136512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062462201550733657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gag_Order_ 哦不祝康复"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2062462174874996736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9Wa7AakAAhCqk.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2062462201550733657",
+        "created_at": "2026-06-04T09:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062472513532391643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062472513532391643",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062462201550733657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 哦不祝康复"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062462174874996736"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "conversation_id": "2062462201550733657",
+        "created_at": "2026-06-04T09:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062462201550733657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QLALm3BG0M",
+              "end": 44,
+              "expanded_url": "https://x.com/Gag_Order_/status/2062462201550733657/photo/1",
+              "media_key": "3_2062462174874996736",
+              "start": 21,
+              "url": "https://t.co/QLALm3BG0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062462201550733657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗑太多傻逼药给自己嗑住院了 \n好懵逼啊。 https://t.co/QLALm3BG0M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 44,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 115
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2059965557277925820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 144,
+          "like_count": 282,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 207
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

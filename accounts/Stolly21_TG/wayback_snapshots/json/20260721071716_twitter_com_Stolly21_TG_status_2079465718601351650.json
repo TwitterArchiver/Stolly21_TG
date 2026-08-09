@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2079364740187644260",
+    "created_at": "2026-07-21T07:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079465718601351650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1888699775069179904",
+          "start": 0,
+          "username": "junyun1337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079465718601351650",
+    "in_reply_to_user_id": "1888699775069179904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079366742380573098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@junyun1337 啊啊好羡慕 我第二次加大剂量了也不如第一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2079364740187644260",
+        "created_at": "2026-07-21T07:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079465718601351650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1888699775069179904",
+              "start": 0,
+              "username": "junyun1337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079465718601351650",
+        "in_reply_to_user_id": "1888699775069179904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079366742380573098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@junyun1337 啊啊好羡慕 我第二次加大剂量了也不如第一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888699775069179904",
+        "conversation_id": "2079364740187644260",
+        "created_at": "2026-07-21T00:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079366742380573098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079366742380573098",
+        "in_reply_to_user_id": "1888699775069179904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079364740187644260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个白兔好像不管我吃多少次都和第一次吃一样的感觉，我可能没啥耐药性吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 243,
+          "like_count": 1559,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 642
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T21:21:41.000Z",
+        "description": "09丨🍥:2025.4丨游戏爱好者丨互fo",
+        "id": "1888699775069179904",
+        "location": "Hong Kong",
+        "name": "shengjunyun1337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019470481703989250/IVzWdL5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 203,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "junyun1337",
+        "verified": true
+      }
+    ]
+  }
+}

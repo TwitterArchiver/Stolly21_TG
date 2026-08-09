@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2074340731087704215",
+    "created_at": "2026-07-07T14:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074498670838558789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1256757256214818818",
+          "start": 0,
+          "username": "GuimuRena"
+        },
+        {
+          "end": 20,
+          "id": "1534344658033180672",
+          "start": 11,
+          "username": "_tom0e_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074498670838558789",
+    "in_reply_to_user_id": "1256757256214818818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074498408992395362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuimuRena @_tom0e_x 好呀好呀~~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2074340731087704215",
+        "created_at": "2026-07-07T14:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074498670838558789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1256757256214818818",
+              "start": 0,
+              "username": "GuimuRena"
+            },
+            {
+              "end": 20,
+              "id": "1534344658033180672",
+              "start": 11,
+              "username": "_tom0e_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074498670838558789",
+        "in_reply_to_user_id": "1256757256214818818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074498408992395362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuimuRena @_tom0e_x 好呀好呀~~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1256757256214818818",
+        "conversation_id": "2074340731087704215",
+        "created_at": "2026-07-07T14:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074498408992395362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            },
+            {
+              "end": 22,
+              "id": "1534344658033180672",
+              "start": 13,
+              "username": "_tom0e_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074498408992395362",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074340731087704215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG @_tom0e_x 来互fo宝子！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 225,
+          "like_count": 1320,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 663
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T01:27:46.000Z",
+        "description": "氿木レナです💬CN JP EN 💊ADHD&双相情感障碍&重度焦虑🎲葛葉激推💕欢迎互fo互转 #地雷女子 #メンヘラ #OD #リスカ #病み垢 #薬物依存症 #ピアス",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "地雷女子"
+              },
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 62,
+                "start": 59,
+                "tag": "OD"
+              },
+              {
+                "end": 67,
+                "start": 63,
+                "tag": "リスカ"
+              },
+              {
+                "end": 72,
+                "start": 68,
+                "tag": "病み垢"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "薬物依存症"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "ピアス"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@xrena_9m?_t=Z…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@xrena_9m?_t=ZS-8yyfizW7cW7&_r=1",
+                "start": 0,
+                "url": "https://t.co/EZHEMbZHJN"
+              }
+            ]
+          }
+        },
+        "id": "1256757256214818818",
+        "location": "天国",
+        "name": "レナ_つ",
+        "pinned_tweet_id": "2034418321878126964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978838203227422720/TcTHSQU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 405,
+          "like_count": 892,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/EZHEMbZHJN",
+        "username": "GuimuRena",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T01:20:56.000Z",
+        "description": "私はサラ/ともえ黒人と日本人のハーフです♥︎\nNonbinary ✨ 統合失調効果障害| SH | BPD | 🚬✨EN / JP / CN / A 🟦 地雷",
+        "id": "1534344658033180672",
+        "location": "Somewhere In Nyc",
+        "name": "Sara 🖤/ともえ🩵",
+        "pinned_tweet_id": "2065990778090926196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060367911307370500/PODa8D-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 127,
+          "like_count": 48238,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 2593
+        },
+        "url": "",
+        "username": "_tom0e_x",
+        "verified": false
+      }
+    ]
+  }
+}

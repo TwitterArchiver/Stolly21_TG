@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2073351630226161856",
+    "created_at": "2026-07-04T14:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073407218905719062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2065950813307187200",
+          "start": 0,
+          "username": "2778_NMSL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073407218905719062",
+    "in_reply_to_user_id": "2065950813307187200",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073406952726782459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2778_NMSL ⌯ ᳐ ÒωÓ ᳐ I|⌯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2073351630226161856",
+        "created_at": "2026-07-04T14:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073407218905719062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2065950813307187200",
+              "start": 0,
+              "username": "2778_NMSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073407218905719062",
+        "in_reply_to_user_id": "2065950813307187200",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073406952726782459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2778_NMSL ⌯ ᳐ ÒωÓ ᳐ I|⌯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065950813307187200",
+        "conversation_id": "2073351630226161856",
+        "created_at": "2026-07-04T14:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073406952726782459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073406952726782459",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073351630226161856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 你咋这么萌呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 197,
+          "like_count": 1129,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T00:15:43.000Z",
+        "description": "病み垢 /友達欲しい/温良健全\n中文/日本語/EN",
+        "id": "2065950813307187200",
+        "location": "東京都内 ",
+        "name": "yume",
+        "pinned_tweet_id": "2067043944433909873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065951450640121856/iueHJpkX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 120,
+          "like_count": 1436,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "2778_NMSL",
+        "verified": false
+      }
+    ]
+  }
+}

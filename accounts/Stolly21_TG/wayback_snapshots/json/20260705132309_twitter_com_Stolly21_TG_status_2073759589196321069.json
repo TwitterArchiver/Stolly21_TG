@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2073735513983611355",
+    "created_at": "2026-07-05T13:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073759589196321069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1951849439515287552",
+          "start": 0,
+          "username": "yue644868559"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073759589196321069",
+    "in_reply_to_user_id": "1951849439515287552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073756541694718390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yue644868559 我是醒来一根烟这样🚬🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2073735513983611355",
+        "created_at": "2026-07-05T13:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073759589196321069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1951849439515287552",
+              "start": 0,
+              "username": "yue644868559"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073759589196321069",
+        "in_reply_to_user_id": "1951849439515287552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073756541694718390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yue644868559 我是醒来一根烟这样🚬🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951849439515287552",
+        "conversation_id": "2073735513983611355",
+        "created_at": "2026-07-05T13:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073756541694718390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073756541694718390",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073735513983611355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 习惯了，起床手边看到药就想o，我的普瑞耐久一个月从4t变成了10t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 200,
+          "like_count": 1203,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 617
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T03:35:56.000Z",
+        "description": "直男/已出柜/XP复杂/药物",
+        "id": "1951849439515287552",
+        "location": "吉林",
+        "name": "越（唐吉）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991156052436664320/OeDFvnz__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 83,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "yue644868559",
+        "verified": false
+      }
+    ]
+  }
+}

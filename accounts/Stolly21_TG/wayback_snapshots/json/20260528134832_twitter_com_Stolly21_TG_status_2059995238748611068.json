@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059995199804416000",
+        "7_2059995202207850496",
+        "3_2059995236202577920"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2059995238748611068",
+    "created_at": "2026-05-28T13:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059995238748611068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VNe2RCYIEA",
+          "end": 29,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2059995238748611068/video/1",
+          "media_key": "3_2059995199804416000",
+          "start": 6,
+          "url": "https://t.co/VNe2RCYIEA"
+        },
+        {
+          "display_url": "pic.x.com/VNe2RCYIEA",
+          "end": 29,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2059995238748611068/video/1",
+          "media_key": "7_2059995202207850496",
+          "start": 6,
+          "url": "https://t.co/VNe2RCYIEA"
+        },
+        {
+          "display_url": "pic.x.com/VNe2RCYIEA",
+          "end": 29,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2059995238748611068/video/1",
+          "media_key": "3_2059995236202577920",
+          "start": 6,
+          "url": "https://t.co/VNe2RCYIEA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059995238748611068",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "today https://t.co/VNe2RCYIEA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059995199804416000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaSuEtaIAAUNuV.jpg",
+        "width": 1551
+      },
+      {
+        "duration_ms": 11709,
+        "height": 1280,
+        "media_key": "7_2059995202207850496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2059995202207850496/pu/img/90ozPu_W6tG8SAZb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059995202207850496/pu/vid/avc1/320x568/gFVkQpTtWv8FP01E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059995202207850496/pu/vid/avc1/480x852/NpGcr202d1GQakWN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059995202207850496/pu/vid/avc1/720x1280/SrmTonDQmSlKtSZU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2059995202207850496/pu/pl/0jx7OvVGMa1pj191.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2059995236202577920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaSwMTaAAAommb.jpg",
+        "width": 753
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059995199804416000",
+            "7_2059995202207850496",
+            "3_2059995236202577920"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2059995238748611068",
+        "created_at": "2026-05-28T13:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059995238748611068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VNe2RCYIEA",
+              "end": 29,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2059995238748611068/video/1",
+              "media_key": "3_2059995199804416000",
+              "start": 6,
+              "url": "https://t.co/VNe2RCYIEA"
+            },
+            {
+              "display_url": "pic.x.com/VNe2RCYIEA",
+              "end": 29,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2059995238748611068/video/1",
+              "media_key": "7_2059995202207850496",
+              "start": 6,
+              "url": "https://t.co/VNe2RCYIEA"
+            },
+            {
+              "display_url": "pic.x.com/VNe2RCYIEA",
+              "end": 29,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2059995238748611068/video/1",
+              "media_key": "3_2059995236202577920",
+              "start": 6,
+              "url": "https://t.co/VNe2RCYIEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059995238748611068",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "today https://t.co/VNe2RCYIEA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2059558030577217971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 24,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 51
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

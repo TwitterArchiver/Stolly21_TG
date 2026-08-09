@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2074568199782518909",
+    "created_at": "2026-07-07T21:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T22:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074601292257989111"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074601292257989111",
+    "in_reply_to_user_id": "1781745564738281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074568199782518909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "5:06 最后1t加巴 枢纽完整体达成！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2074568193679753216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpYx9abAAAwakl.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2074568199782518909",
+        "created_at": "2026-07-07T21:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T22:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074601292257989111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074601292257989111",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074568199782518909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5:06 最后1t加巴 枢纽完整体达成！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074568193679753216"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2074568199782518909",
+        "created_at": "2026-07-07T18:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074568199782518909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oIBiM0Yz8a",
+              "end": 82,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2074568199782518909/photo/1",
+              "media_key": "3_2074568193679753216",
+              "start": 59,
+              "url": "https://t.co/oIBiM0Yz8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074568199782518909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "162 35kg 空腹 无耐药\n5t普瑞750mg＋2t巴氯芬20mg＋2t思诺思20mg＋4t加巴喷丁1200mg https://t.co/oIBiM0Yz8a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 227,
+          "like_count": 1343,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 679
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

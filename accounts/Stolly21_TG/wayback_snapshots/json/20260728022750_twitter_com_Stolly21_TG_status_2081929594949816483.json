@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081929590206078976"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2081925823448379823",
+    "created_at": "2026-07-28T02:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081929594949816483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yx4y8oRL4a",
+          "end": 32,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2081929594949816483/photo/1",
+          "media_key": "3_2081929590206078976",
+          "start": 9,
+          "url": "https://t.co/Yx4y8oRL4a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081929594949816483",
+    "in_reply_to_user_id": "1781745564738281472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081925823448379823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "奇异搞笑的枢纽。 https://t.co/Yx4y8oRL4a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_2081929590206078976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR_7oeboAAWBqe.jpg",
+        "width": 1236
+      },
+      {
+        "height": 2393,
+        "media_key": "3_2081925796957208576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR8e1hbQAAuhq4.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2169,
+        "media_key": "3_2081925804259463168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR8fQua0AA9AwF.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1773,
+        "media_key": "3_2081925811238801408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR8fqubEAA0Sja.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2081,
+        "media_key": "3_2081925817215721472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR8gA_boAAAVMB.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081929590206078976"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2081925823448379823",
+        "created_at": "2026-07-28T02:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081929594949816483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yx4y8oRL4a",
+              "end": 32,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2081929594949816483/photo/1",
+              "media_key": "3_2081929590206078976",
+              "start": 9,
+              "url": "https://t.co/Yx4y8oRL4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081929594949816483",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081925823448379823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奇异搞笑的枢纽。 https://t.co/Yx4y8oRL4a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081925796957208576",
+            "3_2081925804259463168",
+            "3_2081925811238801408",
+            "3_2081925817215721472"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2081925823448379823",
+        "created_at": "2026-07-28T02:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081925823448379823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MsvQB6OaWD",
+              "end": 46,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2081925823448379823/photo/1",
+              "media_key": "3_2081925796957208576",
+              "start": 23,
+              "url": "https://t.co/MsvQB6OaWD"
+            },
+            {
+              "display_url": "pic.x.com/MsvQB6OaWD",
+              "end": 46,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2081925823448379823/photo/1",
+              "media_key": "3_2081925804259463168",
+              "start": 23,
+              "url": "https://t.co/MsvQB6OaWD"
+            },
+            {
+              "display_url": "pic.x.com/MsvQB6OaWD",
+              "end": 46,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2081925823448379823/photo/1",
+              "media_key": "3_2081925811238801408",
+              "start": 23,
+              "url": "https://t.co/MsvQB6OaWD"
+            },
+            {
+              "display_url": "pic.x.com/MsvQB6OaWD",
+              "end": 46,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2081925823448379823/photo/1",
+              "media_key": "3_2081925817215721472",
+              "start": 23,
+              "url": "https://t.co/MsvQB6OaWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081925823448379823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "棉花糖的repo~好开心 很美好的体验啊ww https://t.co/MsvQB6OaWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、鼻吸130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2081013860522148111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 267,
+          "like_count": 1698,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 658
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

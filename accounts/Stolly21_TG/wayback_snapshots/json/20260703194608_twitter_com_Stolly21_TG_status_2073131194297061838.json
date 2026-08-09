@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2072689886197686654",
+    "created_at": "2026-07-03T19:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T20:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073131194297061838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865480322978349056",
+          "start": 0,
+          "username": "CharaG51669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073131194297061838",
+    "in_reply_to_user_id": "1865480322978349056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073130247286112638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharaG51669 小侑~~💗💗💗💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2072689886197686654",
+        "created_at": "2026-07-03T19:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073131194297061838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865480322978349056",
+              "start": 0,
+              "username": "CharaG51669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073131194297061838",
+        "in_reply_to_user_id": "1865480322978349056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073130247286112638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharaG51669 小侑~~💗💗💗💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865480322978349056",
+        "conversation_id": "2072689886197686654",
+        "created_at": "2026-07-03T19:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073130247286112638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073130247286112638",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072689886197686654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 190,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 588
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T19:36:09.000Z",
+        "description": "06/INFP/抑郁/焦虑 /有老公/od/割手/抽烟/互fo请私信💖/欢迎私信/叫我小侑就好/现居深圳，欢迎小萌物们找我玩！\n提问箱：https://t.co/2km1uF0lIH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/onoderayuu",
+                "end": 91,
+                "expanded_url": "https://ngl.link/onoderayuu",
+                "start": 68,
+                "url": "https://t.co/2km1uF0lIH"
+              }
+            ]
+          }
+        },
+        "id": "1865480322978349056",
+        "name": "OnoderaYuu（侑）",
+        "pinned_tweet_id": "2070781014423769469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865662167120564224/GiHXnwwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 213,
+          "like_count": 1110,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 571
+        },
+        "url": "",
+        "username": "CharaG51669",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2072305799108690016",
+    "created_at": "2026-07-02T07:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T08:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072576158428979707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2035062227351609346",
+          "start": 0,
+          "username": "shbwbclmg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072576158428979707",
+    "in_reply_to_user_id": "2035062227351609346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072567782693323128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shbwbclmg www你真好呀( *ˊᵕˋ)💕💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2072305799108690016",
+        "created_at": "2026-07-02T07:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072576158428979707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2035062227351609346",
+              "start": 0,
+              "username": "shbwbclmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072576158428979707",
+        "in_reply_to_user_id": "2035062227351609346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072567782693323128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shbwbclmg www你真好呀( *ˊᵕˋ)💕💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035062227351609346",
+        "conversation_id": "2072305799108690016",
+        "created_at": "2026-07-02T06:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072567782693323128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072567782693323128",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072305799108690016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 好可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 171,
+          "like_count": 974,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 534
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T18:33:51.000Z",
+        "description": "不为任何言论负责，如果你认为我骂了你请原谅我，我只是想说说话",
+        "id": "2035062227351609346",
+        "name": "见到光就死了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035063775347580929/N-4NfTC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 38,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 157
+        },
+        "url": "",
+        "username": "shbwbclmg",
+        "verified": false
+      }
+    ]
+  }
+}

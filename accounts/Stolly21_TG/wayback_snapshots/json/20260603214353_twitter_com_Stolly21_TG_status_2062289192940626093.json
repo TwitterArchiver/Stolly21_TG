@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2062159129570095598",
+    "created_at": "2026-06-03T21:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T22:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062289192940626093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1599377355503726592",
+          "start": 0,
+          "username": "meiiiTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062289192940626093",
+    "in_reply_to_user_id": "1599377355503726592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062159129570095598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiiiTvT 我把钱全用来吃 最后用美团月付的地步了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1307,
+        "media_key": "3_2062159118480384000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5Cyt9bIAAZLh8.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2062159129570095598",
+        "created_at": "2026-06-03T21:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T22:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062289192940626093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1599377355503726592",
+              "start": 0,
+              "username": "meiiiTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062289192940626093",
+        "in_reply_to_user_id": "1599377355503726592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062159129570095598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiiiTvT 我把钱全用来吃 最后用美团月付的地步了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062159118480384000"
+          ]
+        },
+        "author_id": "1599377355503726592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062159129570095598",
+        "created_at": "2026-06-03T13:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062159129570095598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhIHKuNgXW",
+              "end": 28,
+              "expanded_url": "https://x.com/meiiiTvT/status/2062159129570095598/photo/1",
+              "media_key": "3_2062159118480384000",
+              "start": 5,
+              "url": "https://t.co/IhIHKuNgXW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062159129570095598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很懵逼 https://t.co/IhIHKuNgXW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 42,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 106
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "我是小莓｜07重抑中焦神经性贪食｜o割餐券｜互fo欢迎 @Denyoffshshsh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Denyoffshshsh"
+              }
+            ]
+          }
+        },
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060007971237904384/XKElbklj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 434,
+          "like_count": 1724,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 2404
+        },
+        "username": "meiiiTvT",
+        "verified": false
+      }
+    ]
+  }
+}

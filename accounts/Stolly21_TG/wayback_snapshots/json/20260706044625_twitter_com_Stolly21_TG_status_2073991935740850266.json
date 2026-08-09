@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2073735513983611355",
+    "created_at": "2026-07-06T04:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073991935740850266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812304729432838144",
+          "start": 0,
+          "username": "huimu420"
+        },
+        {
+          "end": 18,
+          "id": "1900779585832210432",
+          "start": 10,
+          "username": "71y11Qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073991935740850266",
+    "in_reply_to_user_id": "1812304729432838144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073960308050391518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimu420 @71y11Qy 7000mg吗？！天呢。。。₍•Д•)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2073735513983611355",
+        "created_at": "2026-07-06T04:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073991935740850266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812304729432838144",
+              "start": 0,
+              "username": "huimu420"
+            },
+            {
+              "end": 18,
+              "id": "1900779585832210432",
+              "start": 10,
+              "username": "71y11Qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073991935740850266",
+        "in_reply_to_user_id": "1812304729432838144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073960308050391518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimu420 @71y11Qy 7000mg吗？！天呢。。。₍•Д•)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812304729432838144",
+        "conversation_id": "2073735513983611355",
+        "created_at": "2026-07-06T02:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073960308050391518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            },
+            {
+              "end": 21,
+              "id": "1900779585832210432",
+              "start": 13,
+              "username": "71y11Qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073960308050391518",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073735513983611355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG @71y11Qy 之前pr耐药到7000多mg现在半个月都o不了几次，o不起了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 201,
+          "like_count": 1229,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 624
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "我是回木｜割手od｜负能｜很混乱会自相矛盾\n泛性恋｜代词喜欢ta‼️｜LGBTQ+全友好\n梦角酷拉皮卡♡xp黄发神职人员眼镜\n喜欢温柔的人。不喜欢的就b了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu4201",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu4201",
+                "start": 0,
+                "url": "https://t.co/oipIneyJSB"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "提问箱",
+        "name": "回木",
+        "pinned_tweet_id": "2057771622598414804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 824,
+          "like_count": 32291,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 8822
+        },
+        "url": "https://t.co/oipIneyJSB",
+        "username": "huimu420",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:22:37.000Z",
+        "description": "🚪纯绿88坐标10｜药物滥用，酒精滥用。穿孔，扩耳。我喜欢中西部情绪乐数摇黑金盯鞋以及很多。想和同类同好互fo 漏了可以私信我 我很好相处 喜欢有礼貌的人",
+        "id": "1900779585832210432",
+        "location": "瑞民街5号",
+        "name": "71",
+        "pinned_tweet_id": "2067931471990378637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976968577891659776/czXAeT_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 376,
+          "like_count": 4434,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 3324
+        },
+        "url": "",
+        "username": "71y11Qy",
+        "verified": false
+      }
+    ]
+  }
+}

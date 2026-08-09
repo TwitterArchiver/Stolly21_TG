@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959695023639015424"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "1959695027221004712",
+    "created_at": "2025-08-24T19:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T20:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959695027221004712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SSxCigLFLf",
+          "end": 27,
+          "expanded_url": "https://x.com/Stolly21_TG/status/1959695027221004712/photo/1",
+          "media_key": "3_1959695023639015424",
+          "start": 4,
+          "url": "https://t.co/SSxCigLFLf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959695027221004712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯。。 https://t.co/SSxCigLFLf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959695023639015424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzI8PbgasAAC8F-.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959695023639015424"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "1959695027221004712",
+        "created_at": "2025-08-24T19:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T20:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959695027221004712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SSxCigLFLf",
+              "end": 27,
+              "expanded_url": "https://x.com/Stolly21_TG/status/1959695027221004712/photo/1",
+              "media_key": "3_1959695023639015424",
+              "start": 4,
+              "url": "https://t.co/SSxCigLFLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959695027221004712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯。。 https://t.co/SSxCigLFLf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "或许这就是命吧。。",
+        "id": "1781745564738281472",
+        "name": "Stolly21_TG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781745841935712256/cJ7woqLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 8,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 30
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

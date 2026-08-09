@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067221694817964032",
+        "7_2067221693781938176"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2067221711418994905",
+    "created_at": "2026-06-17T12:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067221711418994905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dsvnlk9CF9",
+          "end": 81,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2067221711418994905/video/1",
+          "media_key": "3_2067221694817964032",
+          "start": 58,
+          "url": "https://t.co/dsvnlk9CF9"
+        },
+        {
+          "display_url": "pic.x.com/dsvnlk9CF9",
+          "end": 81,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2067221711418994905/video/1",
+          "media_key": "7_2067221693781938176",
+          "start": 58,
+          "url": "https://t.co/dsvnlk9CF9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067221711418994905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又买了高维香芋 冰熊倒是换了个青柠口味 然后比熊的细闪比冰熊的设计好看 味道是茉莉龙井~小屏还有一只小比熊~ ！ https://t.co/dsvnlk9CF9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067221694817964032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLA_LcebEAAR0Gw.jpg",
+        "width": 1542
+      },
+      {
+        "duration_ms": 2690,
+        "height": 960,
+        "media_key": "7_2067221693781938176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067221693781938176/pu/img/Ad2SAnbeDOTGUxYQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067221693781938176/pu/vid/avc1/320x426/qTx2GBDfkgCsNitR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067221693781938176/pu/vid/avc1/480x640/UrZBEvera6OYpLYV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067221693781938176/pu/vid/avc1/720x960/5h7kRrr-CIJgsKdS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067221693781938176/pu/pl/1I3XF5rjeUBuNi7E.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067221694817964032",
+            "7_2067221693781938176"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2067221711418994905",
+        "created_at": "2026-06-17T12:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067221711418994905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dsvnlk9CF9",
+              "end": 81,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2067221711418994905/video/1",
+              "media_key": "3_2067221694817964032",
+              "start": 58,
+              "url": "https://t.co/dsvnlk9CF9"
+            },
+            {
+              "display_url": "pic.x.com/dsvnlk9CF9",
+              "end": 81,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2067221711418994905/video/1",
+              "media_key": "7_2067221693781938176",
+              "start": 58,
+              "url": "https://t.co/dsvnlk9CF9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067221711418994905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又买了高维香芋 冰熊倒是换了个青柠口味 然后比熊的细闪比冰熊的设计好看 味道是茉莉龙井~小屏还有一只小比熊~ ！ https://t.co/dsvnlk9CF9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 73,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

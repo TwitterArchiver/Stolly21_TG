@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2065201578076983296"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2065201608749883513",
+    "created_at": "2026-06-11T22:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T23:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065201608749883513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IAivUzoxNH",
+          "end": 32,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2065201608749883513/video/1",
+          "media_key": "7_2065201578076983296",
+          "start": 9,
+          "url": "https://t.co/IAivUzoxNH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065201608749883513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "祝低血钾猝死😂😂 https://t.co/IAivUzoxNH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11434,
+        "height": 1280,
+        "media_key": "7_2065201578076983296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065201578076983296/pu/img/2KGEt8zyUPWu9KyE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065201578076983296/pu/vid/avc1/320x568/u_SAFK4XEeJ8bKT0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065201578076983296/pu/vid/avc1/480x852/T8Q0qpD10_Xo0xiJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065201578076983296/pu/vid/avc1/720x1280/t9WCqzmKoW0mfagP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065201578076983296/pu/pl/S9Kf23xpXOASgyiz.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065201578076983296"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2065201608749883513",
+        "created_at": "2026-06-11T22:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T23:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065201608749883513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IAivUzoxNH",
+              "end": 32,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2065201608749883513/video/1",
+              "media_key": "7_2065201578076983296",
+              "start": 9,
+              "url": "https://t.co/IAivUzoxNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065201608749883513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝低血钾猝死😂😂 https://t.co/IAivUzoxNH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm37kg、100mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 70,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 200
+        },
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

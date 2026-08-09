@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079272424663916544",
+        "3_2079272451188695040"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079272458574828021",
+    "created_at": "2026-07-20T18:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079272458574828021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XjVoyBDqNR",
+          "end": 68,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2079272458574828021/video/1",
+          "media_key": "13_2079272424663916544",
+          "start": 45,
+          "url": "https://t.co/XjVoyBDqNR"
+        },
+        {
+          "display_url": "pic.x.com/XjVoyBDqNR",
+          "end": 68,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2079272458574828021/video/1",
+          "media_key": "3_2079272451188695040",
+          "start": 45,
+          "url": "https://t.co/XjVoyBDqNR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079272458574828021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "瑞莫新一集简直就是我和闺蜜两个人嗑药时候。她当时一直问药效来没来  然后药效突然来了就是 https://t.co/XjVoyBDqNR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13056,
+        "height": 582,
+        "media_key": "13_2079272424663916544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079272424663916544/img/DbslR07r1iIc0XLv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079272424663916544/vid/avc1/592x270/10Or87Ty1zkHd0xV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079272424663916544/vid/avc1/790x360/6FcBYt9wN97P1zZs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079272424663916544/vid/avc1/1280x582/8AEBdpFaCriUMwCP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079272424663916544/pl/E-K7Sv8xQIRY9gG_.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2079272451188695040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsPRyRboAAzxLI.jpg",
+        "width": 3168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079272424663916544",
+            "3_2079272451188695040"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079272458574828021",
+        "created_at": "2026-07-20T18:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079272458574828021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XjVoyBDqNR",
+              "end": 68,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2079272458574828021/video/1",
+              "media_key": "13_2079272424663916544",
+              "start": 45,
+              "url": "https://t.co/XjVoyBDqNR"
+            },
+            {
+              "display_url": "pic.x.com/XjVoyBDqNR",
+              "end": 68,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2079272458574828021/video/1",
+              "media_key": "3_2079272451188695040",
+              "start": 45,
+              "url": "https://t.co/XjVoyBDqNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079272458574828021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瑞莫新一集简直就是我和闺蜜两个人嗑药时候。她当时一直问药效来没来  然后药效突然来了就是 https://t.co/XjVoyBDqNR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 244,
+          "like_count": 1540,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 638
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2071654289152626794",
+    "created_at": "2026-06-30T09:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071887533429166417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865480322978349056",
+          "start": 0,
+          "username": "CharaG51669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071887533429166417",
+    "in_reply_to_user_id": "1865480322978349056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071654289152626794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharaG51669 萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071654282173263872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_-l_JasAAmDmg.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071654286505951232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_-mPSaQAAA6uj.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1540,
+        "media_key": "3_2071654281732845568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_-l9gacAALwnJ.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2071654289152626794",
+        "created_at": "2026-06-30T09:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071887533429166417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865480322978349056",
+              "start": 0,
+              "username": "CharaG51669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071887533429166417",
+        "in_reply_to_user_id": "1865480322978349056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071654289152626794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharaG51669 萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071654282173263872",
+            "3_2071654286505951232",
+            "3_2071654281732845568"
+          ]
+        },
+        "author_id": "1865480322978349056",
+        "conversation_id": "2071654289152626794",
+        "created_at": "2026-06-29T17:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071654289152626794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ycqdl9XTmw",
+              "end": 34,
+              "expanded_url": "https://x.com/CharaG51669/status/2071654289152626794/photo/1",
+              "media_key": "3_2071654282173263872",
+              "start": 11,
+              "url": "https://t.co/Ycqdl9XTmw"
+            },
+            {
+              "display_url": "pic.x.com/Ycqdl9XTmw",
+              "end": 34,
+              "expanded_url": "https://x.com/CharaG51669/status/2071654289152626794/photo/1",
+              "media_key": "3_2071654286505951232",
+              "start": 11,
+              "url": "https://t.co/Ycqdl9XTmw"
+            },
+            {
+              "display_url": "pic.x.com/Ycqdl9XTmw",
+              "end": 34,
+              "expanded_url": "https://x.com/CharaG51669/status/2071654289152626794/photo/1",
+              "media_key": "3_2071654281732845568",
+              "start": 11,
+              "url": "https://t.co/Ycqdl9XTmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071654289152626794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 862,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刘海怎么才能剪齐…… https://t.co/Ycqdl9XTmw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 152,
+          "like_count": 853,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T19:36:09.000Z",
+        "description": "06/INFP/抑郁/焦虑 /有老公/od/割手/抽烟/互fo请私信💖/欢迎私信/叫我小侑就好/现居深圳，欢迎小萌物们找我玩！\n提问箱：https://t.co/2km1uF0lIH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/onoderayuu",
+                "end": 91,
+                "expanded_url": "https://ngl.link/onoderayuu",
+                "start": 68,
+                "url": "https://t.co/2km1uF0lIH"
+              }
+            ]
+          }
+        },
+        "id": "1865480322978349056",
+        "name": "OnoderaYuu（侑）",
+        "pinned_tweet_id": "2070781014423769469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865662167120564224/GiHXnwwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 214,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 528
+        },
+        "url": "",
+        "username": "CharaG51669",
+        "verified": false
+      }
+    ]
+  }
+}

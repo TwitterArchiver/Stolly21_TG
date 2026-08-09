@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2074002402613858450",
+    "created_at": "2026-07-06T06:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T07:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074021001093104071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053188363566391296",
+          "start": 0,
+          "username": "ayahuasca8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074021001093104071",
+    "in_reply_to_user_id": "2053188363566391296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074020469842522114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayahuasca8964 也看运气就是了。。（默"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2074002402613858450",
+        "created_at": "2026-07-06T06:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074021001093104071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053188363566391296",
+              "start": 0,
+              "username": "ayahuasca8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074021001093104071",
+        "in_reply_to_user_id": "2053188363566391296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074020469842522114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayahuasca8964 也看运气就是了。。（默"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053188363566391296",
+        "conversation_id": "2074002402613858450",
+        "created_at": "2026-07-06T06:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074020469842522114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074020469842522114",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074002402613858450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 網上居然有這種東西賣啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 204,
+          "like_count": 1243,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 636
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T19:00:39.000Z",
+        "description": "死藤水改革歸來，看廣州禁毒土崩瓦解，化學極樂的日子終將到來。",
+        "id": "2053188363566391296",
+        "name": "Aya",
+        "pinned_tweet_id": "2056634860186530096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069508917999353856/8ij5Dnh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 32,
+          "like_count": 6648,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 627
+        },
+        "url": "",
+        "username": "ayahuasca8964",
+        "verified": false
+      }
+    ]
+  }
+}
