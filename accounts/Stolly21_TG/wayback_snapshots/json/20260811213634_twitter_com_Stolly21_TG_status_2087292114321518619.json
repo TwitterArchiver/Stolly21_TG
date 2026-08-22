@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087292099997945857",
+        "3_2087292105320472576"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2087292114321518619",
+    "created_at": "2026-08-11T21:36:34.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T22:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087292114321518619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NiPPZacb3y",
+          "end": 54,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2087292114321518619/photo/1",
+          "media_key": "3_2087292099997945857",
+          "start": 31,
+          "url": "https://t.co/NiPPZacb3y"
+        },
+        {
+          "display_url": "pic.x.com/NiPPZacb3y",
+          "end": 54,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2087292114321518619/photo/1",
+          "media_key": "3_2087292105320472576",
+          "start": 31,
+          "url": "https://t.co/NiPPZacb3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087292114321518619",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087292099997945857"
+      },
+      {
+        "media_key": "3_2087292105320472576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "棉花糖牛逼到我report都没写了 我现在大概是。清醒时候。 https://t.co/NiPPZacb3y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 875,
+        "media_key": "3_2087292099997945857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeNGyLbUAEPi0l.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2388,
+        "media_key": "3_2087292105320472576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeNHGAaoAACa2C.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087292099997945857",
+            "3_2087292105320472576"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2087292114321518619",
+        "created_at": "2026-08-11T21:36:34.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T22:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087292114321518619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NiPPZacb3y",
+              "end": 54,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2087292114321518619/photo/1",
+              "media_key": "3_2087292099997945857",
+              "start": 31,
+              "url": "https://t.co/NiPPZacb3y"
+            },
+            {
+              "display_url": "pic.x.com/NiPPZacb3y",
+              "end": 54,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2087292114321518619/photo/1",
+              "media_key": "3_2087292105320472576",
+              "start": 31,
+              "url": "https://t.co/NiPPZacb3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087292114321518619",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087292099997945857"
+          },
+          {
+            "media_key": "3_2087292105320472576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "棉花糖牛逼到我report都没写了 我现在大概是。清醒时候。 https://t.co/NiPPZacb3y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "学习药理的oder、edtwt、162cm35kg、鼻吸130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！",
+        "id": "1781745564738281472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087292114321518619",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2081013860522148111",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781745564738281472/1780291296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 276,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 683
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

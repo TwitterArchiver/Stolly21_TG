@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086941073570693121",
+        "3_2086941079560237056",
+        "3_2086941086757588992",
+        "3_2086941093690765312"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086941099927777784",
+    "created_at": "2026-08-10T22:21:46.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T23:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086941099927777784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u3bpyE62fi",
+          "end": 35,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2086941099927777784/photo/1",
+          "media_key": "3_2086941073570693121",
+          "start": 12,
+          "url": "https://t.co/u3bpyE62fi"
+        },
+        {
+          "display_url": "pic.x.com/u3bpyE62fi",
+          "end": 35,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2086941099927777784/photo/1",
+          "media_key": "3_2086941079560237056",
+          "start": 12,
+          "url": "https://t.co/u3bpyE62fi"
+        },
+        {
+          "display_url": "pic.x.com/u3bpyE62fi",
+          "end": 35,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2086941099927777784/photo/1",
+          "media_key": "3_2086941086757588992",
+          "start": 12,
+          "url": "https://t.co/u3bpyE62fi"
+        },
+        {
+          "display_url": "pic.x.com/u3bpyE62fi",
+          "end": 35,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2086941099927777784/photo/1",
+          "media_key": "3_2086941093690765312",
+          "start": 12,
+          "url": "https://t.co/u3bpyE62fi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086941099927777784",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086941073570693121"
+      },
+      {
+        "media_key": "3_2086941079560237056"
+      },
+      {
+        "media_key": "3_2086941086757588992"
+      },
+      {
+        "media_key": "3_2086941093690765312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "致敬最不爱搭配主页之人 https://t.co/u3bpyE62fi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2086941073570693121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZN2W1agAEQCO5.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2740,
+        "media_key": "3_2086941079560237056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZN2tJbsAAlybM.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1668,
+        "media_key": "3_2086941086757588992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZN3H9akAA3tdg.jpg",
+        "width": 2388
+      },
+      {
+        "height": 1830,
+        "media_key": "3_2086941093690765312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZN3hyacAAeRun.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086941073570693121",
+            "3_2086941079560237056",
+            "3_2086941086757588992",
+            "3_2086941093690765312"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086941099927777784",
+        "created_at": "2026-08-10T22:21:46.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T23:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086941099927777784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3bpyE62fi",
+              "end": 35,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2086941099927777784/photo/1",
+              "media_key": "3_2086941073570693121",
+              "start": 12,
+              "url": "https://t.co/u3bpyE62fi"
+            },
+            {
+              "display_url": "pic.x.com/u3bpyE62fi",
+              "end": 35,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2086941099927777784/photo/1",
+              "media_key": "3_2086941079560237056",
+              "start": 12,
+              "url": "https://t.co/u3bpyE62fi"
+            },
+            {
+              "display_url": "pic.x.com/u3bpyE62fi",
+              "end": 35,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2086941099927777784/photo/1",
+              "media_key": "3_2086941086757588992",
+              "start": 12,
+              "url": "https://t.co/u3bpyE62fi"
+            },
+            {
+              "display_url": "pic.x.com/u3bpyE62fi",
+              "end": 35,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2086941099927777784/photo/1",
+              "media_key": "3_2086941093690765312",
+              "start": 12,
+              "url": "https://t.co/u3bpyE62fi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086941099927777784",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086941073570693121"
+          },
+          {
+            "media_key": "3_2086941079560237056"
+          },
+          {
+            "media_key": "3_2086941086757588992"
+          },
+          {
+            "media_key": "3_2086941093690765312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "致敬最不爱搭配主页之人 https://t.co/u3bpyE62fi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "学习药理的oder、edtwt、162cm35kg、鼻吸130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！",
+        "id": "1781745564738281472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086941099927777784",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2081013860522148111",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781745564738281472/1780291296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 271,
+          "like_count": 1924,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 680
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
