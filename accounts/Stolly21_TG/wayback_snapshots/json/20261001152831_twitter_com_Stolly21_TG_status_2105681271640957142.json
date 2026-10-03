@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2105656673033732392",
+    "created_at": "2026-10-01T15:28:31.000Z",
+    "display_text_range": [
+      12,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T16:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105681271640957142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1901605424723591168",
+          "start": 0,
+          "username": "illusionqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105681271640957142",
+    "in_reply_to_user_id": "1901605424723591168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105676615477084213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@illusionqw 喜翻你&gt;ω&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2105656673033732392",
+        "created_at": "2026-10-01T15:28:31.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105681271640957142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1901605424723591168",
+              "start": 0,
+              "username": "illusionqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105681271640957142",
+        "in_reply_to_user_id": "1901605424723591168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105676615477084213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@illusionqw 喜翻你&gt;ω&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901605424723591168",
+        "conversation_id": "2105656673033732392",
+        "created_at": "2026-10-01T15:10:01.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105676615477084213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105676615477084213",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105656673033732392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 你好萌呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "另一个我：@shuniu21 \n学习药理的oder、ed蛆、162cm35kg、鼻吸130mgDPT存活、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！有时候没及时回是上限了。。等等我´꒳`",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "shuniu21"
+              }
+            ]
+          }
+        },
+        "id": "1781745564738281472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105681271640957142",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2082344025248715144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781745564738281472/1780291296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 298,
+          "like_count": 2065,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 753
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-17T12:04:13.000Z",
+        "description": "西哲/od/双向/甜食爱好/高三半休学",
+        "id": "1901605424723591168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105676615477084213",
+        "name": "烧纸酱🍥",
+        "pinned_tweet_id": "1902718998674079988",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901605424723591168/1790524836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104239747610861568/XDugkU0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 163,
+          "like_count": 1308,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "illusionqw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

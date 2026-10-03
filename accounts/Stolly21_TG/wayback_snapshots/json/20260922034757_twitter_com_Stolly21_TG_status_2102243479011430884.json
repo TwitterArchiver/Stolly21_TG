@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2101919892421357786",
+    "created_at": "2026-09-22T03:47:57.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T04:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102243479011430884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1347928531339145221",
+          "start": 0,
+          "username": "JFtS3WyZKkpwfhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102243479011430884",
+    "in_reply_to_user_id": "1347928531339145221",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102232133020647866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JFtS3WyZKkpwfhb 是的ww😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2101919892421357786",
+        "created_at": "2026-09-22T03:47:57.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102243479011430884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1347928531339145221",
+              "start": 0,
+              "username": "JFtS3WyZKkpwfhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102243479011430884",
+        "in_reply_to_user_id": "1347928531339145221",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102232133020647866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JFtS3WyZKkpwfhb 是的ww😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347928531339145221",
+        "conversation_id": "2101919892421357786",
+        "created_at": "2026-09-22T03:02:52.000Z",
+        "display_text_range": [
+          13,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102232133020647866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102232133020647866",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101919892421357786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 你在国内科普这些又有什么用？不玩的人 一方面没资源 第二总觉得这些玩了人生就会毁掉 玩的人 首先国内的情况下 他绝对是不怎么差钱的  你也无需跟他们科普 他们当然知道天然大麻的好处 抖 就是一个戾气很严重的地方 你哪怕说的再客观 他都有站在他角度 觉得他一定是对的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "另一个我：@shuniu21 \n学习药理的oder、ed蛆、162cm35kg、鼻吸130mgDPT存活、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！有时候没及时回是上限了。。等等我´꒳`",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "shuniu21"
+              }
+            ]
+          }
+        },
+        "id": "1781745564738281472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102243479011430884",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2082344025248715144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781745564738281472/1780291296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 285,
+          "like_count": 1993,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 721
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-09T15:29:55.000Z",
+        "description": "交友分享生活的 希望能看見不同的人 也能聽到不同的事",
+        "id": "1347928531339145221",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2102239882206908685",
+        "name": "社長",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079811605408485376/VC7LH7ic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 48,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "JFtS3WyZKkpwfhb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

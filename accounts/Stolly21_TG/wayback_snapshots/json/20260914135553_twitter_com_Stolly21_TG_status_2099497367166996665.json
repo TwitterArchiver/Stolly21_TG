@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2099314711833784745",
+    "created_at": "2026-09-14T13:55:53.000Z",
+    "display_text_range": [
+      18,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T14:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099497367166996665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1797273760325877760",
+          "start": 0,
+          "username": "xyv__3"
+        },
+        {
+          "end": 17,
+          "id": "2092979508450414592",
+          "start": 8,
+          "username": "shuniu21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099497367166996665",
+    "in_reply_to_user_id": "1797273760325877760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099379593845330029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyv__3 @shuniu21 😼😼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2099314711833784745",
+        "created_at": "2026-09-14T13:55:53.000Z",
+        "display_text_range": [
+          18,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099497367166996665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1797273760325877760",
+              "start": 0,
+              "username": "xyv__3"
+            },
+            {
+              "end": 17,
+              "id": "2092979508450414592",
+              "start": 8,
+              "username": "shuniu21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099497367166996665",
+        "in_reply_to_user_id": "1797273760325877760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099379593845330029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyv__3 @shuniu21 😼😼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797273760325877760",
+        "conversation_id": "2099314711833784745",
+        "created_at": "2026-09-14T06:07:54.000Z",
+        "display_text_range": [
+          23,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T07:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099379593845330029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            },
+            {
+              "end": 22,
+              "id": "2092979508450414592",
+              "start": 13,
+              "username": "shuniu21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099379593845330029",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099314711833784745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG @shuniu21 恭喜！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "另一个我：@shuniu21 \n学习药理的oder、ed蛆、162cm35kg、鼻吸130mgDPT存活、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo互转欢迎~查成分回fo回私信这些！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "shuniu21"
+              }
+            ]
+          }
+        },
+        "id": "1781745564738281472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099497367166996665",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2081013860522148111",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781745564738281472/1780291296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 264,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 699
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T14:27:20.000Z",
+        "description": "世界大爆炸，防炸@Xiaoyu2133\n可以叫我小鱼🐟/莉音Rin，07-双相-量产&地雷\n我有究极爱我的重力系男友@jincunmeijiu1\n碎碎念，啥都发",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Xiaoyu2133"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "jincunmeijiu1"
+              }
+            ]
+          }
+        },
+        "id": "1797273760325877760",
+        "is_identity_verified": false,
+        "location": "不收🚪不加联系方式",
+        "most_recent_tweet_id": "2099427901963952366",
+        "name": "3600斤",
+        "pinned_tweet_id": "2079387191143489757",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797273760325877760/1787359126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797280153359499264/xavXjUcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 204,
+          "like_count": 968,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 630
+        },
+        "url": "",
+        "username": "xyv__3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T14:17:37.000Z",
+        "description": "枢纽2.0诞生！~~\n大号：@Stolly21_TG 这个号暂时被标签了 所以暂时不能大量互动 稍等我ww\n学习药理的oder、ed蛆、162cm35kg、鼻吸130mgDPT存活、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo互转欢迎~查成分回fo回私信这些！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Stolly21_TG"
+              }
+            ]
+          }
+        },
+        "id": "2092979508450414592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099286963102826896",
+        "name": "枢纽Toky（互关寻回",
+        "pinned_tweet_id": "2092987661032259856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092979508450414592/1787842871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092980101415829504/XqQS0kSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 67,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "shuniu21",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

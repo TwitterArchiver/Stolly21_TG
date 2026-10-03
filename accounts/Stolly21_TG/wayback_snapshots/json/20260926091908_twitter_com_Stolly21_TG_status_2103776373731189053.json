@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2103686515276808394",
+    "created_at": "2026-09-26T09:19:08.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T10:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103776373731189053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1693417755431571456",
+          "start": 0,
+          "username": "guangning190765"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103776373731189053",
+    "in_reply_to_user_id": "1693417755431571456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103763223917076942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guangning190765 好耶好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2103686515276808394",
+        "created_at": "2026-09-26T09:19:08.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103776373731189053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1693417755431571456",
+              "start": 0,
+              "username": "guangning190765"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103776373731189053",
+        "in_reply_to_user_id": "1693417755431571456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103763223917076942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guangning190765 好耶好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693417755431571456",
+        "conversation_id": "2103686515276808394",
+        "created_at": "2026-09-26T08:26:53.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103763223917076942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103763223917076942",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103686515276808394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 泥嚎，我偷吃一板^0^"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "另一个我：@shuniu21 \n学习药理的oder、ed蛆、162cm35kg、鼻吸130mgDPT存活、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！有时候没及时回是上限了。。等等我´꒳`",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "shuniu21"
+              }
+            ]
+          }
+        },
+        "id": "1781745564738281472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103776373731189053",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2082344025248715144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781745564738281472/1780291296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 295,
+          "like_count": 2044,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 742
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-21T00:20:44.000Z",
+        "description": "骂我先骂：https://t.co/B4egXdkkAS\n非二元/非资深oder/喜欢到处点赞评论\nod/LGBTQ+全友好/🙅‍顺直",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/neymarjr?s=20",
+                "end": 28,
+                "expanded_url": "https://x.com/neymarjr?s=20",
+                "start": 5,
+                "url": "https://t.co/B4egXdkkAS"
+              }
+            ]
+          }
+        },
+        "id": "1693417755431571456",
+        "is_identity_verified": false,
+        "location": "外太空",
+        "most_recent_tweet_id": "2103764777206243793",
+        "name": "seeeena",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100527950642991104/4kG3kO55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "guangning190765",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

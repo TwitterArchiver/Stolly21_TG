@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2103783799964553216"
+      ]
+    },
+    "author_id": "1781745564738281472",
+    "conversation_id": "2103784198561583544",
+    "created_at": "2026-09-26T09:50:14.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T10:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103784198561583544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2B7Td8KDpa",
+          "end": 28,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2103784198561583544/video/1",
+          "media_key": "13_2103783799964553216",
+          "start": 5,
+          "url": "https://t.co/2B7Td8KDpa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103784198561583544",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2103783799964553216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "康复训练 https://t.co/2B7Td8KDpa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9798,
+        "height": 1280,
+        "media_key": "13_2103783799964553216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103783799964553216/img/taPcKz0Grw5bk2Ml.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103783799964553216/vid/avc1/320x568/MqEeVOPnr8qGCay_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103783799964553216/vid/avc1/480x852/TmygbpIhLqAUnot_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103783799964553216/vid/avc1/720x1280/E3jb-SK2T23F5I0B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103783799964553216/pl/sXn9O4L5fLU0nZEy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103783799964553216"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2103784198561583544",
+        "created_at": "2026-09-26T09:50:14.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103784198561583544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2B7Td8KDpa",
+              "end": 28,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2103784198561583544/video/1",
+              "media_key": "13_2103783799964553216",
+              "start": 5,
+              "url": "https://t.co/2B7Td8KDpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103784198561583544",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103783799964553216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "康复训练 https://t.co/2B7Td8KDpa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "另一个我：@shuniu21 \n学习药理的oder、ed蛆、162cm35kg、鼻吸130mgDPT存活、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！有时候没及时回是上限了。。等等我´꒳`",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "shuniu21"
+              }
+            ]
+          }
+        },
+        "id": "1781745564738281472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103784198561583544",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2082344025248715144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781745564738281472/1780291296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 295,
+          "like_count": 2045,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 744
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

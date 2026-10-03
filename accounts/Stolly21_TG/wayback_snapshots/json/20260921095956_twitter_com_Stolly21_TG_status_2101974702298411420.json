@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2101919892421357786",
+    "created_at": "2026-09-21T09:59:56.000Z",
+    "display_text_range": [
+      10,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T10:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101974702298411420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1867560160895651840",
+          "start": 0,
+          "username": "_c_a_n_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101974702298411420",
+    "in_reply_to_user_id": "1867560160895651840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101973970186911947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_c_a_n_o 是的。。他们已经是固有思维了（）很佩服那些发评论的人 枢纽只能无力的给他们点赞了www°¯᷄◠¯᷅°"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2101919892421357786",
+        "created_at": "2026-09-21T09:59:56.000Z",
+        "display_text_range": [
+          10,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101974702298411420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1867560160895651840",
+              "start": 0,
+              "username": "_c_a_n_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101974702298411420",
+        "in_reply_to_user_id": "1867560160895651840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101973970186911947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_c_a_n_o 是的。。他们已经是固有思维了（）很佩服那些发评论的人 枢纽只能无力的给他们点赞了www°¯᷄◠¯᷅°"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867560160895651840",
+        "conversation_id": "2101919892421357786",
+        "created_at": "2026-09-21T09:57:01.000Z",
+        "display_text_range": [
+          13,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101973970186911947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101973970186911947",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101919892421357786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 真抽过的ip中国不敢发表评论，ip外国发表评论就会被说被西方文化荼毒。而且反驳你的这批人肯定是从小接受你中“禁毒教育”的90后00后，老辈子耍冰耍粉肯定知道什么好什么不好。以及最好不要在内网说这些。王晶在看着你。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "另一个我：@shuniu21 \n学习药理的oder、ed蛆、162cm35kg、鼻吸130mgDPT存活、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！有时候没及时回是上限了。。等等我´꒳`",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "shuniu21"
+              }
+            ]
+          }
+        },
+        "id": "1781745564738281472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101974702298411420",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2082344025248715144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781745564738281472/1780291296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 281,
+          "like_count": 1967,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 712
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-13T13:20:24.000Z",
+        "description": "太美的 美的\n一切都将被换掉\n不顾骨髓的\n一切都将被换掉",
+        "id": "1867560160895651840",
+        "is_identity_verified": false,
+        "location": "🚪38",
+        "most_recent_tweet_id": "2101974566356820245",
+        "name": "南鸢🍥",
+        "pinned_tweet_id": "2087990751900971317",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1867560160895651840/1786645176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966911451828224/_tl9EtFb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 54,
+          "like_count": 781,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "_c_a_n_o",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

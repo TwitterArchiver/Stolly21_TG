@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781745564738281472",
+    "conversation_id": "2101919892421357786",
+    "created_at": "2026-09-21T09:50:32.000Z",
+    "display_text_range": [
+      27,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T10:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101972338363314422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395988647250317316",
+          "start": 0,
+          "username": "PineKrabCCC"
+        },
+        {
+          "end": 26,
+          "id": "1689862031028191232",
+          "start": 13,
+          "username": "Terry1685706"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101972338363314422",
+    "in_reply_to_user_id": "1395988647250317316",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101961253149409417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PineKrabCCC @Terry1685706 纸烟的副产品焦油 一氧化碳 苯并芘 亚硝胺 重金属就这样被无视吗òᆺó 单拎出来我也可以说大麻的cbd不致癌(′へ`、 )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2101919892421357786",
+        "created_at": "2026-09-21T09:50:32.000Z",
+        "display_text_range": [
+          27,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101972338363314422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395988647250317316",
+              "start": 0,
+              "username": "PineKrabCCC"
+            },
+            {
+              "end": 26,
+              "id": "1689862031028191232",
+              "start": 13,
+              "username": "Terry1685706"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101972338363314422",
+        "in_reply_to_user_id": "1395988647250317316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101961253149409417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PineKrabCCC @Terry1685706 纸烟的副产品焦油 一氧化碳 苯并芘 亚硝胺 重金属就这样被无视吗òᆺó 单拎出来我也可以说大麻的cbd不致癌(′へ`、 )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395988647250317316",
+        "conversation_id": "2101919892421357786",
+        "created_at": "2026-09-21T09:06:29.000Z",
+        "display_text_range": [
+          27,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101961253149409417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1689862031028191232",
+              "start": 0,
+              "username": "Terry1685706"
+            },
+            {
+              "end": 26,
+              "id": "1781745564738281472",
+              "start": 14,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101961253149409417",
+        "in_reply_to_user_id": "1689862031028191232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101948110796906643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Terry1685706 @Stolly21_TG 然而尼古丁不是致癌物"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "另一个我：@shuniu21 \n学习药理的oder、ed蛆、162cm35kg、鼻吸130mgDPT存活、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！有时候没及时回是上限了。。等等我´꒳`",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "shuniu21"
+              }
+            ]
+          }
+        },
+        "id": "1781745564738281472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101972338363314422",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2082344025248715144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781745564738281472/1780291296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 281,
+          "like_count": 1965,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 712
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-22T06:24:28.000Z",
+        "description": "喵？",
+        "id": "1395988647250317316",
+        "is_identity_verified": false,
+        "location": "何为归处",
+        "most_recent_tweet_id": "2101961253149409417",
+        "name": "雪焰",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955383413151813632/NzjQ3JRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 19,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "PineKrabCCC",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T04:51:27.000Z",
+        "description": "You are NOT defined by your nation.",
+        "id": "1689862031028191232",
+        "is_identity_verified": false,
+        "location": "幻想鄉",
+        "most_recent_tweet_id": "2101948110796906643",
+        "name": "Terry",
+        "pinned_tweet_id": "1740764371167723777",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689862031028191232/1708192845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996697509599891456/ds-1WBC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 184,
+          "like_count": 4208,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1117
+        },
+        "url": "",
+        "username": "Terry1685706",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
